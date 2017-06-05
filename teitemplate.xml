@@ -1,0 +1,23 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+        <titleStmt>
+          <title>Iliad</title>
+            <editor>Zach Sowerby</editor>
+            <editor>Julia Spiegel</editor>
+          </titleStmt>
+          <publicationStmt>
+            <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+          </publicationStmt>
+          <sourceDesc>
+            <p>Edited directly from photography of the manuscript</p>
+          </sourceDesc>
+        </fileDesc>
+      </teiHeader>
+      <text>
+        <body>
+          <div n="22">
+          </div>
+        </body>
+      </text>
+  </TEI>
