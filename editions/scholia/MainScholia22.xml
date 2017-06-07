@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Scholia</title>
+                <author>YOUR NAME HERE</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="22">
+            <text n="msA">
+                <body>
+                    <div n="1" type="scholion">
+                        <div type="lemma">
+                            <p>ὡς οἱ μὲν κατα άστυ πεφυζότες ὴ ΰπε νεβροι:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.1</p>
+                        </div>
+                        <div type="comment">
+                            <p>βραδὺ διασταλτεον μετα τὸ <q>νεβροὶ</q> πεφευγέναι γὰρ αὐτοὺς φησὶν ὡς
+                                νεβροὺς οὐ τὸν ἰδρῶτα ἀποψυχεσθαι· νεβροὶ δὲ οἱ νεωστὶ ἐπι βοραν
+                                ἰόντες, ἠ νηπόροι οἱ μηδέπω πορεύεσθαι δυνάμενοι⁑</p>
+                        </div>
+                    </div>
+                    <div n="2" type="scholion">
+                        <div type="lemma">
+                            <p>ἰδρῶ απεψυχοντο·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.2</p>
+                        </div>
+                        <div type="comment">
+                            <p>διχῶς καὶ <q>ἀνεψύχοντο</q> καὶ <q>ἀπεψύχοντο</q> χαριεστέρα δὲ ἡ δια τοῦ ν̄⁑</p>
+                        </div>
+                    </div>
+                    <div n="3" type="scholion">
+                        <div type="lemma">
+                            <p>κεκλιμένοι</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.3</p>
+                        </div>
+                        <div type="comment">
+                            <p>προσκεκλιμένοι ὅ ἐστι περιεχόμενοι ὑπo τῶν τειχῶν. ἐπάλξεις γὰρ οἱ τῶν τειχῶν λεγόμενοι προμαχῶνες⁑</p>
+                        </div>
+                    </div>
+                    <!--     <div n="" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    <div n="" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    -->
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
