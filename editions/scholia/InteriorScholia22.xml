@@ -33,10 +33,126 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.27</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> αρίδηλοι οὐ γὰρ ὁ ζηλοί ἔγκειται⁑</p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> αρίδηλοι οὐ γὰρ ὁ ζηλοί ἔγκειται⁑</p>
                         </div>
                     </div>
-                   <!-- <div n="1" type="scholion">
+                    <div n="2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.36</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>Ἀριστχ</abbr>
+                                    <expan>Ἀρίσταρχος</expan>
+                                </choice>
+                                <q>ἑστήκει</q> άνευ τοῦ ϊ̄</p>
+                        </div>
+                    </div>
+                    <div n="3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.40</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τὸ σχῆμα·</p>
+                        </div>
+                    </div>
+                    <div n="4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.48</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>Ἀρισταρχ</abbr>
+                                    <expan>Ἀρίσταρχος</expan>
+                                </choice> δια τοῦ τ̄ ἄλλοι δὲ οὕσοι⁑</p>
+                        </div>
+                    </div>
+                    <div n="5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.51</p>
+                        </div>
+                        <div type="comment">
+                            <p>αἱ ἀποτ/\/\ πόλεων παιδὶ φίλῳ⁑⁑</p>
+                        </div>
+                    </div>
+                    <div n="6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.55</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τὸ <choice>
+                                    <abbr>σχημ</abbr>
+                                    <expan>σχῆμα</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τοῦ <choice>
+                                    <abbr>υπ</abbr>
+                                    <expan>ὑπ'</expan>
+                                </choice>
+                                <persName n="urn:cite2:hmt:pers.2017a:pers1">
+                                    <choice>
+                                        <abbr>αχιλλε</abbr>
+                                        <expan>Ἀχιλλέως</expan>
+                                    </choice></persName>, ὡς <q><rs type="ethnic"
+                                        n="urn:cite2:hmt:place.2017a:place6">Τρωσὶ</rs>
+                                δαμεῖς</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="7" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.60</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῶ τέλει τῇ εξόδω⁑</p>
+                        </div>
+                    </div>
+                    <div n="8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.68</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν ἀλλω ἕλοιτο⁑</p>
+                        </div>
+                    </div>
+                    <!-- <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>

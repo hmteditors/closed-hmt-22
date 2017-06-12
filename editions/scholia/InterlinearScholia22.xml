@@ -49,6 +49,127 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>αν εισιν ἀνατέλλει</p>
                         </div>
                     </div>
+                    <div n="3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.43</p>
+                        </div>
+                        <div type="comment">
+                            <p>εντὸς έσομαι λυπ</p>
+                        </div>
+                    </div>
+                    <div n="4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.44</p>
+                        </div>
+                        <div type="comment">
+                            <p>ερημον χηρον</p>
+                        </div>
+                    </div>
+                    <div n="5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.45</p>
+                        </div>
+                        <div type="comment">
+                            <p>πιπρασων</p>
+                        </div>
+                    </div>
+                    <div n="6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.58</p>
+                        </div>
+                        <div type="comment">
+                            <p>στερηθεῖς</p>
+                        </div>
+                    </div>
+                    <div n="7" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.59</p>
+                        </div>
+                        <div type="comment">
+                            <p>ουτ /\/\ ορθοτονητεον /\/\  </p>
+                        </div>
+                    </div>
+                    <div n="8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.59</p>
+                        </div>
+                        <div type="comment">
+                            <p>καλῶς οι παραινοῦντα</p>
+                        </div>
+                    </div>
+                    <div n="9" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.66</p>
+                        </div>
+                        <div type="comment">
+                            <p>τελευταῖον</p>
+                        </div>
+                    </div>
+                    <div n="10" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.67</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὡμοφάγοι</p>
+                        </div>
+                    </div>
+                    <div n="11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.69</p>
+                        </div>
+                        <div type="comment">
+                            <p>τους παρεστῶτας τῃ τραπεζη</p>
+                        </div>
+                    </div>
+                    <div n="12" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.70</p>
+                        </div>
+                        <div type="comment">
+                            <p> αδημονοῦντες</p>
+                        </div>
+                    </div>
+                    <div n="" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
