@@ -159,6 +159,94 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p> αδημονοῦντες</p>
                         </div>
                     </div>
+                    <div n="13" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.83</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸν λήθην ἐμποιοῦντα τοῖς παισὶ τῶν κακῶν ἁπαντα</p>
+                        </div>
+                    </div>
+                    <div n="14" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.93</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν όρει διατρίβων</p>
+                        </div>
+                    </div>
+                    <div n="15" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.102</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὡρμησεν</p>
+                        </div>
+                    </div>
+                    <div n="16" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.104</p>
+                        </div>
+                        <div type="comment">
+                            <p>φρενοβλαβίαις</p>
+                        </div>
+                    </div>
+                    <div n="17" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="18" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="19" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="20" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
                     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -170,6 +258,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p></p>
                         </div>
                     </div>
+                    <div n="" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    
                 </body>
             </text>
         </group>

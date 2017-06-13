@@ -152,12 +152,30 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἐν ἀλλω ἕλοιτο⁑</p>
                         </div>
                     </div>
+                    <div n="9" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> διὰ <choice>
+                                    <abbr>τ</abbr>
+                                    <expan>τοῦ</expan>
+                                </choice> τ̄ <q>εἴποτέ τοι</q>
+                            </p>
+                        </div>
+                    </div>
                     <!-- <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
                         </div>
                         <div type="comment">
                             <p/>

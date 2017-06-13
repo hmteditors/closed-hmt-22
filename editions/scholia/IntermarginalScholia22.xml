@@ -149,9 +149,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite2:hmt:pers.2017a:pers16"><choice>
-                                    <abbr>Ἀρισταρχ</abbr>
-                                    <expan>Ἀρίσταρχος</expan>
-                                </choice></persName>· <q>θυραωρούς</q>, θυρακοφύλακας⁑</p>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>· <q>θυραωρούς</q>, θυρακοφύλακας⁑</p>
                         </div>
                     </div>
                     <div n="10" type="scholion">
@@ -167,9 +167,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <expan>οὕτως</expan>
                                 </choice>
                                 <persName n="urn:cite2:hmt:pers.2017a:pers16"><choice>
-                                    <abbr>Ἀρίσταρχ</abbr>
-                                    <expan>Ἀρίσταρχος</expan>
-                                </choice></persName> φάνηη δια <choice>
+                                        <abbr>Ἀρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> φάνηη δια <choice>
                                     <abbr>τω</abbr>
                                     <expan>τῶν</expan>
                                 </choice> β̄ η ⁑</p>
@@ -184,6 +184,38 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>τὰ αιδοῖα⁑</p>
+                        </div>
+                    </div>
+                    <div n="12" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.85</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὔτως</expan>
+                                </choice>
+                                <persName n="urn:cite2:hmt:pers.2017a:pers16"><choice>
+                                        <abbr>Αρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> ἄλλοι δὲ ἰων⁑</p>
+                        </div>
+                    </div>
+                    <div n="11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.87</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>γρ</abbr>
+                                    <expan>γράφεται</expan>
+                                </choice> φίλον θάλος·⁑</p>
                         </div>
                     </div>
                     <div n="" type="scholion">
