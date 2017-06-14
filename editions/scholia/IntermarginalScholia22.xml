@@ -218,6 +218,64 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> φίλον θάλος·⁑</p>
                         </div>
                     </div>
+                    <div n="12" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.108</p>
+                        </div>
+                        <div type="comment">
+                            <p>αἱ κατα ἄνδρα πολὺ κάλλιον⁑</p>
+                        </div>
+                    </div>
+                    <div n="13" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.118</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>Αρισταρχ</abbr>
+                                    <expan>Ἀρίσταρχος</expan>
+                                </choice>
+                                <q>ἀλλ' ἀποδάσσεσθαι</q> διὰ <choice>
+                                    <abbr>τ</abbr>
+                                    <expan>τοῦ</expan>
+                                </choice> ε̄ ⁑</p>
+                        </div>
+                    </div>
+                    <div n="14" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.122</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <abbr>χω</abbr><expan>χωρὶς</expan> τοῦ δ̄ <q>αλλα τι η μοι</q></p>
+                        </div>
+                    </div>
+                    <div n="15" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.129</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν αλλω όφρα τάχιστα <choice>
+                                    <abbr>τουτ</abbr>
+                                    <expan>τοῦτο</expan>
+                                </choice>δὲ ἑκατέρωθι δύναται προσδίδοσθαι⁑</p>
+                        </div>
+                    </div>
                     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
