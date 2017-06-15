@@ -106,11 +106,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ὀνομάζονται μετα τῶν κτητόρων. οἷον <persName
                                     n="urn:cite2:hmt:pers.2017a:pers616">Κέρβερος</persName>
                                 <persName n="urn:cite2:hmt:pers.2017a:pers201">Ἅιδου</persName>·
-                                    <persName n="urn:cite2:hmt:pers.2017a:persHELP">Ὄρθος</persName>
+                                    <persName n="urn:cite2:hmt:pers.2017a:pers1102">Ὄρθος</persName>
                                 <persName n="urn:cite2:hmt:pers.2017a:pers1099">Γηρυόνου</persName>,
-                                    <persName n="urn:cite2:hmt:pers.2017a:persHELP"
+                                    <persName n="urn:cite2:hmt:pers.2017a:pers1103"
                                     >Ἄλκαινα</persName>
-                                <persName n="urn:cite2:hmt:pers.2017a:persHELP"
+                                <persName n="urn:cite2:hmt:pers.2017a:pers1104"
                                 >Ἀκταίωνος</persName>. οὕτως κυνα <persName
                                     n="urn:cite2:hmt:pers.2017a:pers1009">Ὡρίωνος</persName> τὸ δε
                                 κυνηγετικον αὐτον εἰναι καὶ πλησίον κατηστέρισαν τὸν <choice>
@@ -121,7 +121,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="7" type="scholion">
                         <div type="lemma">
-                            <p>ὀν τε <persName n="urn:cite2:hmt:pers.2017a:persHELP"
+                            <p>ὀν τε <persName n="urn:cite2:hmt:pers.2017a:pers1105"
                                     >Κυνωρίωνος</persName>.</p>
                         </div>
                         <div type="ref">
