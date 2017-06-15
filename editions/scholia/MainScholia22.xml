@@ -135,12 +135,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     n="urn:cite2:hmt:pers.2017a:pers1009">Ὠρίωνος</persName> ἀλλ'
                                     <persName n="urn:cite2:hmt:pers.2017a:persHELP"
                                     >Ηριγένης</persName> ὑπάρχειν ὃν κατηστερισθῆναι δια τοιαύτην
-                                αιτίαν· <persName n="urn:cite2:hmt:pers.2017a:persHELP"
+                                αιτίαν· <persName n="urn:cite2:hmt:pers.2017a:pers1100"
                                     >Ϊκάριος</persName>. γένος μὲν ἧν <rs type="ethnic"
                                     n="urn:cite2:hmt:place.2017a:place1">Ἀθηναῖος</rs> ἔσχεν δὲ
                                 θυγατέρα μονογενῆ <persName n="urn:cite2:hmt:pers.2017a:persHELP"
                                     >Ἡριγόνην</persName> ἥτις κύνα νήπιον ἔτρεφε· ξενίσας δέ ποτε ὁ
-                                    <persName n="urn:cite2:hmt:pers.2017a:persHELP"
+                                    <persName n="urn:cite2:hmt:pers.2017a:pers1100"
                                     >Ϊκαριος</persName>
                                 <persName n="urn:cite2:hmt:pers.2017a:pers59">Διόνυσον</persName>
                                 ἔλαβεν ἀπ αυτοῦ οἶνόν τε καὶ ἀμπέλου κλῆμα. κατα δε τὰς τοῦ θεοῦ
@@ -150,7 +150,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 οἶνον παρέσχεν· οἱ δὲ ἀθρόως ἐμφορησάμενοι οἱ μὲν ἐς βαθὺν ὕπνον
                                 ἐτράπησαν· οἱ δὲ περιλειπόμενοι νομίσαντες θανάσιμον εῖναι φαρμακον
                                 τὸ πόμα, πλήσσοντες ἐφόνευσαν τὸν <persName
-                                    n="urn:cite2:hmt:pers.2017a:persHELP">Ϊκάριον</persName>· μεθ
+                                    n="urn:cite2:hmt:pers.2017a:pers1100">Ϊκάριον</persName>· μεθ
                                 ἡμέραν δὲ νηψάντῶν αὐτῶν καταγνώντες ἑαυτῶν εἰς φυγὴν ἐτράπησαν· ὁ
                                 δε κύων ὑποστρέψας προς τὴν <persName
                                     n="urn:cite2:hmt:pers.2017a:persHELP">Ηριγένην</persName> δι
@@ -159,11 +159,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <placeName n="urn:cite2:hmt:place.2017a:place1"
                                     >Ἀθήναις</placeName> γενομένης κατα χρησμὸν <rs type="ethnic"
                                     n="urn:cite2:hmt:place.2017a:place1">Ἀθηναῖοι</rs> τόν τε
-                                    <persName n="urn:cite2:hmt:pers.2017a:persHELP"
+                                    <persName n="urn:cite2:hmt:pers.2017a:pers1100"
                                     >Ϊκαριον</persName> καὶ τὴν καὶ τὴν <persName
                                     n="urn:cite2:hmt:pers.2017a:persHELP">Ἡριγόνην</persName>
                                 ἐνιαυσίαις ἐγεραιρον τιμαῖς. οἱ καὶ καταστερηθέντες <persName
-                                    n="urn:cite2:hmt:pers.2017a:persHELP">Ϊκάριον</persName> μὲν <rs
+                                    n="urn:cite2:hmt:pers.2017a:pers1100">Ϊκάριον</persName> μὲν <rs
                                     type="astro" n="urn:cite2:hmt:astro.2017a:12">βοώτης</rs>
                                 ἐκλήθη· <persName n="urn:cite2:hmt:pers.2017a:persHELP"
                                     >Ἡριγόνη</persName> δὲ παρθένος · ὁ δε κύων τὴν αὐτὴν ὀνομασίαν
