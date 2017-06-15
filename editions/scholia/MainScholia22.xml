@@ -133,12 +133,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <expan>οὕτως</expan>
                                 </choice> ἔφη. ἔνιοι δε φασὶν τὸν κατηστερισμένον κύνα οὐκ <persName
                                     n="urn:cite2:hmt:pers.2017a:pers1009">Ὠρίωνος</persName> ἀλλ'
-                                    <persName n="urn:cite2:hmt:pers.2017a:persHELP"
+                                    <persName n="urn:cite2:hmt:pers.2017a:pers1101"
                                     >Ηριγένης</persName> ὑπάρχειν ὃν κατηστερισθῆναι δια τοιαύτην
                                 αιτίαν· <persName n="urn:cite2:hmt:pers.2017a:pers1100"
                                     >Ϊκάριος</persName>. γένος μὲν ἧν <rs type="ethnic"
                                     n="urn:cite2:hmt:place.2017a:place1">Ἀθηναῖος</rs> ἔσχεν δὲ
-                                θυγατέρα μονογενῆ <persName n="urn:cite2:hmt:pers.2017a:persHELP"
+                                θυγατέρα μονογενῆ <persName n="urn:cite2:hmt:pers.2017a:pers1101"
                                     >Ἡριγόνην</persName> ἥτις κύνα νήπιον ἔτρεφε· ξενίσας δέ ποτε ὁ
                                     <persName n="urn:cite2:hmt:pers.2017a:pers1100"
                                     >Ϊκαριος</persName>
@@ -153,7 +153,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     n="urn:cite2:hmt:pers.2017a:pers1100">Ϊκάριον</persName>· μεθ
                                 ἡμέραν δὲ νηψάντῶν αὐτῶν καταγνώντες ἑαυτῶν εἰς φυγὴν ἐτράπησαν· ὁ
                                 δε κύων ὑποστρέψας προς τὴν <persName
-                                    n="urn:cite2:hmt:pers.2017a:persHELP">Ηριγένην</persName> δι
+                                    n="urn:cite2:hmt:pers.2017a:pers1101">Ηριγένην</persName> δι
                                 ορυγμοῦ <w>ἐμήνυσ<add place="supralinear">ε</add></w> αὐτῆ τὰ
                                 λεγόμενα. ἡ δε μαθοῦσα τ' ἀληθὲς ἑαυτὴν ἀνήρτησε νόσου δὲ ἐν
                                     <placeName n="urn:cite2:hmt:place.2017a:place1"
@@ -161,7 +161,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     n="urn:cite2:hmt:place.2017a:place1">Ἀθηναῖοι</rs> τόν τε
                                     <persName n="urn:cite2:hmt:pers.2017a:pers1100"
                                     >Ϊκαριον</persName> καὶ τὴν καὶ τὴν <persName
-                                    n="urn:cite2:hmt:pers.2017a:persHELP">Ἡριγόνην</persName>
+                                    n="urn:cite2:hmt:pers.2017a:pers1101">Ἡριγόνην</persName>
                                 ἐνιαυσίαις ἐγεραιρον τιμαῖς. οἱ καὶ καταστερηθέντες <persName
                                     n="urn:cite2:hmt:pers.2017a:pers1100">Ϊκάριον</persName> μὲν <rs
                                     type="astro" n="urn:cite2:hmt:astro.2017a:12">βοώτης</rs>
