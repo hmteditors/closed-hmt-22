@@ -189,7 +189,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.118</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> ὅσα τε πτόλις</p>
+                            <p><choice>
+                                    <abbr>γρ</abbr>
+                                    <expan>γράφεται</expan>
+                                </choice> ὅσα τε πτόλις</p>
                         </div>
                     </div>
                     <div n="12" type="scholion">
@@ -200,7 +203,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.119</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> ομουμαι</p>
+                            <p><choice>
+                                    <abbr>γρ</abbr>
+                                    <expan>γράφεται</expan>
+                                </choice> ομουμαι</p>
                         </div>
                     </div>
                     <div n="13" type="scholion">
@@ -214,15 +220,19 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>πρὸς τὴν ἐπανάληψιν τὸ πυκνῶς ἐν Ἰλιάδη</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="14" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.153</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>το πρόθεσις ήλλακται καὶ πτῶσις <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice>
+                                <q>παρ αυταῖς</q>⁑</p>
                         </div>
                     </div>
                     <div n="" type="scholion">

@@ -276,6 +276,34 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice>δὲ ἑκατέρωθι δύναται προσδίδοσθαι⁑</p>
                         </div>
                     </div>
+                    <div n="16" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.137</p>
+                        </div>
+                        <div type="comment">
+                            <p>το αντι τοῦ <q>φυγών</q></p>
+                        </div>
+                    </div>
+                    <div n="17" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.141</p>
+                        </div>
+                        <div type="comment">
+                            <p>το καὶ νῦν σαφῶς <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τοῦ <q><choice>
+                                        <abbr>ἔμπροσθ</abbr>
+                                        <expan>ἔμπροσθε</expan>
+                                    </choice> φεύγει</q>⁑</p>
+                        </div>
+                    </div>
                     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
