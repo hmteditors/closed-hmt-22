@@ -121,12 +121,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>υπ</abbr>
                                     <expan>ὑπ'</expan>
                                 </choice>
-                                <persName n="urn:cite2:hmt:pers.2017a:pers1">
+                                <persName n="urn:cite2:hmt:pers:pers1">
                                     <choice>
                                         <abbr>αχιλλε</abbr>
                                         <expan>Ἀχιλλέως</expan>
                                     </choice></persName>, ὡς <q><rs type="ethnic"
-                                        n="urn:cite2:hmt:place.2017a:place6">Τρωσὶ</rs>
+                                        n="urn:cite2:hmt:place:place6">Τρωσὶ</rs>
                                 δαμεῖς</q>⁑</p>
                         </div>
                     </div>
