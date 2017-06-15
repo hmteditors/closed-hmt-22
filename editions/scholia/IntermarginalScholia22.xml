@@ -137,7 +137,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>προαναφωνεῖ τὴν <rs type="ethnic"
-                                    n="urn:cite2:hmt:place.2017a:place6">Ἰλίου</rs> ἄλωσιν⁑</p>
+                                    n="urn:cite2:hmt:place:place6">Ἰλίου</rs> ἄλωσιν⁑</p>
                         </div>
                     </div>
                     <div n="9" type="scholion">
@@ -148,7 +148,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.69</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite2:hmt:pers.2017a:pers16"><choice>
+                            <p><persName n="urn:cite2:hmt:pers:pers16"><choice>
                                         <abbr>Ἀρισταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName>· <q>θυραωρούς</q>, θυρακοφύλακας⁑</p>
@@ -166,7 +166,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
                                 </choice>
-                                <persName n="urn:cite2:hmt:pers.2017a:pers16"><choice>
+                                <persName n="urn:cite2:hmt:pers:pers16"><choice>
                                         <abbr>Ἀρίσταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName> φάνηη δια <choice>
@@ -198,7 +198,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>ουτ</abbr>
                                     <expan>οὔτως</expan>
                                 </choice>
-                                <persName n="urn:cite2:hmt:pers.2017a:pers16"><choice>
+                                <persName n="urn:cite2:hmt:pers:pers16"><choice>
                                         <abbr>Αρισταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName> ἄλλοι δὲ ἰων⁑</p>
