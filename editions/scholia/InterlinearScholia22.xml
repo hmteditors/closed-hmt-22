@@ -57,7 +57,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.43</p>
                         </div>
                         <div type="comment">
-                            <p>εντὸς έσομαι <choice><abbr>λυπ</abbr><expan>λυπόμενος</expan></choice></p>
+                            <p>εντὸς έσομαι <choice>
+                                    <abbr>λυπ</abbr>
+                                    <expan>λυπόμενος</expan>
+                                </choice></p>
                         </div>
                     </div>
                     <div n="4" type="scholion">
@@ -222,8 +225,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.132</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι τῷ <persName n="urn:cite2:hmt:pers:pers83"
-                                >Ἄρεϊ</persName></p>
+                            <p>ὅτι τῷ <persName n="urn:cite2:hmt:pers:pers83">Ἄρεϊ</persName></p>
                         </div>
                     </div>
                     <div n="19" type="scholion">
@@ -273,37 +275,37 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>εν οῖς πλύνουσι</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="23" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.159</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὐ θυμα οῦ βύρσαν</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="24" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.162</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>καμπτήρας</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="25" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.163</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τρέχωσι</p>
                         </div>
                     </div>
                     <div n="" type="scholion">

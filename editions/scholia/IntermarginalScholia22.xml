@@ -136,8 +136,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.62</p>
                         </div>
                         <div type="comment">
-                            <p>προαναφωνεῖ τὴν <rs type="ethnic"
-                                    n="urn:cite2:hmt:place:place6">Ἰλίου</rs> ἄλωσιν⁑</p>
+                            <p>προαναφωνεῖ τὴν <rs type="ethnic" n="urn:cite2:hmt:place:place6"
+                                    >Ἰλίου</rs> ἄλωσιν⁑</p>
                         </div>
                     </div>
                     <div n="9" type="scholion">
@@ -284,7 +284,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.137</p>
                         </div>
                         <div type="comment">
-                            <p>το αντι τοῦ <q>φυγών</q></p>
+                            <p>ὅτι αντι τοῦ <q>φυγών</q></p>
                         </div>
                     </div>
                     <div n="17" type="scholion">
@@ -295,13 +295,53 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.141</p>
                         </div>
                         <div type="comment">
-                            <p>το καὶ νῦν σαφῶς <choice>
+                            <p>ὅτι καὶ νῦν σαφῶς <choice>
                                     <abbr>αντ</abbr>
                                     <expan>ἀντὶ</expan>
                                 </choice> τοῦ <q><choice>
                                         <abbr>ἔμπροσθ</abbr>
                                         <expan>ἔμπροσθε</expan>
                                     </choice> φεύγει</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="18" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.159</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντικατήλλασσον τῷ δρόμῳ⁑</p>
+                        </div>
+                    </div>
+                    <div n="19" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.170</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <choice>
+                                    <abbr>ἐλλειπ</abbr>
+                                    <expan>ἐλλείπει</expan>
+                                </choice> ἡ περὶ περι <persName n="urn:cite2:hmt:pers:pers172"
+                                    >Έκτορος</persName>⁑</p>
+                        </div>
+                    </div>
+                    <div n="20" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ὑπερθετικως <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> ακρ/\/\/\/\⁑</p>
                         </div>
                     </div>
                     <div n="" type="scholion">
