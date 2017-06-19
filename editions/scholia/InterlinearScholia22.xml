@@ -308,15 +308,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>τρέχωσι</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="26" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.197</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>προλαβών</p>
                         </div>
                     </div>
                     <div n="" type="scholion">

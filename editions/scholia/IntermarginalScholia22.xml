@@ -335,13 +335,27 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.172</p>
                         </div>
                         <div type="comment">
                             <p>ὅτι ὑπερθετικως <choice>
                                     <abbr>αντ</abbr>
                                     <expan>ἀντὶ</expan>
-                                </choice> ακρ/\/\/\/\⁑</p>
+                                </choice>τοῦ <choice>
+                                    <abbr>ακροπο</abbr>
+                                    <expan>ἀκροπόλει</expan>
+                                </choice>⁑</p>
+                        </div>
+                    </div>
+                    <div n="21" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.184</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑποχώρει ἐνδίδου⁑</p>
                         </div>
                     </div>
                     <div n="" type="scholion">

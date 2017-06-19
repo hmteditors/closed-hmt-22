@@ -126,8 +126,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         <abbr>αχιλλε</abbr>
                                         <expan>Ἀχιλλέως</expan>
                                     </choice></persName>, ὡς <q><rs type="ethnic"
-                                        n="urn:cite2:hmt:place:place6">Τρωσὶ</rs>
-                                δαμεῖς</q>⁑</p>
+                                        n="urn:cite2:hmt:place:place6">Τρωσὶ</rs> δαμεῖς</q>⁑</p>
                         </div>
                     </div>
                     <div n="7" type="scholion">
@@ -235,26 +234,68 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <q>παρ αυταῖς</q>⁑</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="15" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.190</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> δι' αγκέων καὶ βησσῶν</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="16" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.194</p>
                         </div>
                         <div type="comment">
+                            <p>ὅτι ἃς άνω Σκαιὰς νῦν Δαρδανίους⁑</p>
+                        </div>
+                    </div>
+                    <div n="17" type="scholion">
+                        <div type="lemma">
                             <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.198</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> δια τοῦ ε̄ πέτετο⁑</p>
+                        </div>
+                    </div>
+                    <div n="18" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.201</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν ἄλλω <q>ὡς ὁ τὸν</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="19" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.202</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>αρισταρχ</abbr>
+                                    <expan>Ἀρίσταρχος</expan>
+                                </choice> υπεξέφερεν</p>
                         </div>
                     </div>
                     <!-- <div n="" type="scholion">

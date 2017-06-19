@@ -965,6 +965,58 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 διπλάσιον ἔκαμεν ἔξωθεν περιθέων⁑</p>
                         </div>
                     </div>
+                    <div n="56" type="scholion">
+                        <div type="lemma">
+                            <p>ἐν δ ετίθει δύο κῆρε:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.210</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἐντεῦθεν ἡ <rs type="citedworks"
+                                    n="urn:cite2:hmt:citedworks.2017a:work3">Ψυχοστασία</rs>
+                                <persName n="urn:cite2:hmt:pers:pers225">Αἰσχύλου</persName>
+                                πέπλασται ὡς τοῦ <persName n="urn:cite2:hmt:pers:pers8"
+                                    >Διὸς</persName> τὰς ψυχὰς ἱστάντος οὐ θανατηφόρους μοίρας⁑</p>
+                        </div>
+                    </div>
+                    <div n="57" type="scholion">
+                        <div type="lemma">
+                            <p>νῦν δὴ νῶϊ γ’,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.216</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName>
+                                γράφει <q>νῶϊν</q>. τοῦτο δέ ἐστιν ἡμῖν ἢ ἡμῶν, ὅπερ οὐ συμφωνεῖ, τὸ
+                                    δε <q>νῶϊ</q> χωρὶς τοῦ ν̄ σημαίνει ἡμᾶς. ἠ ἡμῖς ὅπερ νῦν λέγει
+                                ἡμᾶς ἔολπα οἴεσθαι μέγα κῦδος⁑</p>
+                        </div>
+                    </div>
+                    <div n="58" type="scholion">
+                        <div type="lemma">
+                            <p>‡ ἠθεῖ’ ἠ μάλα δήσε:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.229</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι νεωτέρου προς πρεσβύτερον σεπτικῆ προσφώνησις ἐστι
+                                    τοῦ <q>ἠθεῖε</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="59" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
                     <!--     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
