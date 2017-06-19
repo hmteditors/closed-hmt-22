@@ -19,7 +19,7 @@
 
 Use this to look up correct image URN for a given page of the Ventus A.
 
-1. Start up an sbt console, and load this script (see previous section).
+1. Start up an sbt console, and load this script `:load scripts/indexing.sc` (see previous section).
 2. Look up an image:  `imgForPage("URN")`, e.g.,
 
     imgForPage(urn:cite2:hmt:msA.2017a:283r")
