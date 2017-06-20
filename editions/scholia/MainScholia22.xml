@@ -1008,6 +1008,164 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="59" type="scholion">
                         <div type="lemma">
+                            <p>ἔστω φειδωλή.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.244-22.446</p>
+                        </div>
+                        <div type="comment">
+                            <p>βραχὺ <choice>
+                                    <abbr>διασταλτ</abbr>
+                                    <expan>διασταλτέον</expan>
+                                </choice> <q>φειδωλὴ</q> καὶ <q>εἴδομεν</q>, τ ἀλλα δὲ συναπτέον ἕως <q><choice>
+                                        <abbr>γλαφυρὰς</abbr>
+                                        <expan>γλαφυράς</expan>
+                                    </choice></q>, ἤτοι δὲ στικτέον ἐπι τὸ <q>γλαφυράς</q>. ἡ βραχὺ
+                                διασταλτέον· περισπαστέον δὲ τὸν <q>η̄</q>
+                                <choice>
+                                    <abbr>συνδ</abbr>
+                                    <expan>σύνδεσμον</expan>
+                                </choice>· ἀδύνατον γὰρ τῷ <q>η̄</q> συνδέσμῳ ἑπόμενον αὐτὸν
+                                ὀξύνεσθαι⁑</p>
+                        </div>
+                    </div>
+                    <div n="60" type="scholion">
+                        <div type="lemma">
+                            <p>ὡς φαμένη· καὶ κερδοσύνη·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.247</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>βραχ</abbr>
+                                    <expan>βραχὺ</expan>
+                                </choice> διασταλτέον ἐπι τὸ <q>φαμένη</q> μᾶλλον γὰρ ἐμφαίνει· τὸ
+                                δὲ ἑξῆς ἐστι <q>καὶ ἡγήσατο</q>, οἷον οὐ μόνον δια λογων αὐτὸν
+                                ἡπάτησεν ἀλλα καὶ δια τοῦ προσελθεῖν ἀξιοπίστως⁑</p>
+                        </div>
+                    </div>
+                    <div n="61" type="scholion">
+                        <div type="lemma">
+                            <p>τρὶς περι αστυ.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.251</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὸ <q>δῖον</q> ἐδιώχθην· οὐ μάχεται δὲ τῷ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:22.208</ref>
+                                    <q>ἄλλ οτε δὴ τὸ τέταρτον</q>
+                                </cit>· τρεῖς μὲν γὰρ τελείους κύκλους περιέδραμεν τὸ δε τέταρτον
+                                ἕως τῶν κρουνῶν ἐλθόντες οὐκέτι περιῆλθον τὴν πόλιν⁑</p>
+                        </div>
+                    </div>
+                    <div n="62" type="scholion">
+                        <div type="lemma">
+                            <p>μάρτυροι ἔσονται·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.255</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι μάρτυροι οὐ μάρτυρες. καὶ γὰρ τὸ ἑνικὸν <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:7.76</ref>
+                                    <q>Ζεὺς δ' ἅμμ' ἐπιμάρτυρος ἔστω</q>
+                                </cit>⁑</p>
+                        </div>
+                    </div>
+                    <div n="63" type="scholion">
+                        <div type="lemma">
+                            <p>ἁρμονίων·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.255</p>
+                        </div>
+                        <div type="comment">
+                            <p>συναρμογῶν ἀφ οὗ δηλοὶ τὸ ὁμολογιῶν καὶ συνθηκῶν⁑</p>
+                        </div>
+                    </div>
+                    <div n="64" type="scholion">
+                        <div type="lemma">
+                            <p>δῴῃ καμμονίην:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.257</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι καμμονίη νίκη οὐ καθολικῶς ἀλλὰ ἡ εκ καταμονῆς διὸ ἐπι τῶν
+                                μονομαχούντων καὶ πυκτευόντων τίθησιν ἐπὶ δὲ δρομέων οὐκέτι⁑</p>
+                        </div>
+                    </div>
+                    <div n="65" type="scholion">
+                        <div type="lemma">
+                            <p>συν ἡμοσύνας ἀγόρευε·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.261</p>
+                        </div>
+                        <div type="comment">
+                            <p>δασυντέον σημαίνει δὲ τὰς συνθήκας ἀπὸ τοῦ εἰς ταὐτὸν ἐφεῖναι τὰ τῆς
+                                διανοίας παρα τὸν ἥσω οὖν ἥμων τί ἐστι καὶ ἥμονος ἡ γενική (cf. Ψ
+                                886) παρ ὴν τὸ ἡμοσύνη. οὕτως δὲ εῖχεν καὶ τὸ „μεθημοσύνη“ (Ν 121;
+                                cf. *n 108)⁑</p>
+                        </div>
+                    </div>
+                    <div n="66" type="scholion">
+                        <div type="lemma">
+                            <p>ὡς οὐκ έστι λέουσιν.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.262</p>
+                        </div>
+                        <div type="comment">
+                            <p>αἱ ὑποστιγμαὶ πιστὰ (262) ἔχουσιν (263), ἀλλήλοισιν (264). ἡ γὰρ
+                                ἀνταπόδοσις „ὡς οὐκ έστ' ἐμὲ καὶ σέ“ (Χ 265)⁑</p>
+                        </div>
+                    </div>
+                    <div n="67" type="scholion">
+                        <div type="lemma">
+                            <p>ὄρκια ἔσσονται·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.266</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἰς τοῦτο ἡ διάνοια καταστρέφει ὅτι πρότερον συμβήσεται τὸν ἕτερον
+                                ἡμῶν πεσεῖν πρὶν ἠ όρκους ἡμᾶς ποιήσασθαι· ὡς τὸ „πρίν μιν καὶ γῆρας
+                                ἔπεισιν ἡμετέρῳ ἐνι οἴκῳ“ (Α 29-30)⁑</p>
+                        </div>
+                    </div>
+                    <div n="68" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλά τις ἀρτιεπὴς καὶ ἐπίκλοπος·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.281</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι οὐκ ἐν ἐπαίνῳ ὁ <q>ἀρτιεπὴς</q> κατα τοὐναντίον τῷ „ἀμετροεπῇ“ (Β
+                                212) ἀλλὰ ὁ λάλος καὶ ὁ <choice>
+                                    <sic>ἀπηρτ<del>η</del>σμένον</sic>
+                                    <corr>ἀπηρτισμένον</corr>
+                                </choice> παραλογιζόμενος τὸ δόρυ⁑</p>
+                        </div>
+                    </div>
+                    <div n="69" type="scholion">
+                        <div type="lemma">
+                            <p>ἐπίκλοπος.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἠσκηκὼς λόγοις ἀπατᾶν·  οἱ δὲ ἐπιθυμητής. κλέπτεσθαι γὰρ τὸ
+                                ὀρέγεσθαι· „καὶ ἐπίκλοπος ἔπλετο τόξων“ (φ 397). ἠ ασκῶν διὰ λόγων
+                                παραλογίζεσθαι ὡς τὸ „κλέπτε νόῳ“ (Α 132)⁑</p>
+                        </div>
+                    </div>
+                    <div n="70" type="scholion">
+                        <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
