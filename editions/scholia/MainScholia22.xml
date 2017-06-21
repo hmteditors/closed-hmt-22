@@ -1070,7 +1070,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div type="comment">
                             <p>ὅτι μάρτυροι οὐ μάρτυρες. καὶ γὰρ τὸ ἑνικὸν <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:7.76</ref>
-                                    <q>Ζεὺς δ' ἅμμ' ἐπιμάρτυρος ἔστω</q>
+                                    <q><persName n="urn:cite2:hmt:pers:pers8">Ζεὺς</persName> δ'
+                                        ἅμμ' ἐπιμάρτυρος ἔστω</q>
                                 </cit>⁑</p>
                         </div>
                     </div>
@@ -1106,9 +1107,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>δασυντέον σημαίνει δὲ τὰς συνθήκας ἀπὸ τοῦ εἰς ταὐτὸν ἐφεῖναι τὰ τῆς
-                                διανοίας παρα τὸν ἥσω οὖν ἥμων τί ἐστι καὶ ἥμονος ἡ γενική (cf. Ψ
-                                886) παρ ὴν τὸ ἡμοσύνη. οὕτως δὲ εῖχεν καὶ τὸ „μεθημοσύνη“ (Ν 121;
-                                cf. *n 108)⁑</p>
+                                διανοίας παρα τὸν ἥσω οὖν ἥμων τί ἐστι καὶ ἥμονος ἡ γενική παρ ὴν τὸ
+                                    <q>ἡμοσύνη</q>. οὕτως δὲ εῖχεν καὶ τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.121</ref>
+                                    <q>μεθημοσύνη</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <div n="66" type="scholion">
@@ -1116,11 +1119,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ὡς οὐκ έστι λέουσιν.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.262</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.262-22.264</p>
                         </div>
                         <div type="comment">
-                            <p>αἱ ὑποστιγμαὶ πιστὰ (262) ἔχουσιν (263), ἀλλήλοισιν (264). ἡ γὰρ
-                                ἀνταπόδοσις „ὡς οὐκ έστ' ἐμὲ καὶ σέ“ (Χ 265)⁑</p>
+                            <p>αἱ ὑποστιγμαὶ <q>πιστὰ</q> <q>ἔχουσιν</q>, <q>ἀλλήλοισιν</q>. ἡ γὰρ
+                                ἀνταπόδοσις <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:22.265</ref>
+                                    <q>ὡς οὐκ έστ' ἐμὲ καὶ σέ</q>
+                                </cit>⁑</p>
                         </div>
                     </div>
                     <div n="67" type="scholion">
@@ -1132,8 +1138,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>εἰς τοῦτο ἡ διάνοια καταστρέφει ὅτι πρότερον συμβήσεται τὸν ἕτερον
-                                ἡμῶν πεσεῖν πρὶν ἠ όρκους ἡμᾶς ποιήσασθαι· ὡς τὸ „πρίν μιν καὶ γῆρας
-                                ἔπεισιν ἡμετέρῳ ἐνι οἴκῳ“ (Α 29-30)⁑</p>
+                                ἡμῶν πεσεῖν πρὶν ἠ όρκους ἡμᾶς ποιήσασθαι· ὡς τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.29-1.30</ref>
+                                    <q>πρίν μιν καὶ γῆρας ἔπεισιν ἡμετέρῳ ἐνι οἴκῳ</q>
+                                </cit>⁑</p>
                         </div>
                     </div>
                     <div n="68" type="scholion">
@@ -1144,8 +1152,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.281</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι οὐκ ἐν ἐπαίνῳ ὁ <q>ἀρτιεπὴς</q> κατα τοὐναντίον τῷ „ἀμετροεπῇ“ (Β
-                                212) ἀλλὰ ὁ λάλος καὶ ὁ <choice>
+                            <p>ὅτι οὐκ ἐν ἐπαίνῳ ὁ <q>ἀρτιεπὴς</q> κατα τοὐναντίον τῷ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.212</ref>
+                                    <q>ἀμετροεπῇ</q>
+                                </cit> ἀλλὰ ὁ λάλος καὶ ὁ <choice>
                                     <sic>ἀπηρτ<del>η</del>σμένον</sic>
                                     <corr>ἀπηρτισμένον</corr>
                                 </choice> παραλογιζόμενος τὸ δόρυ⁑</p>
@@ -1156,12 +1166,17 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἐπίκλοπος.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.281</p>
                         </div>
                         <div type="comment">
                             <p>ἠσκηκὼς λόγοις ἀπατᾶν·  οἱ δὲ ἐπιθυμητής. κλέπτεσθαι γὰρ τὸ
-                                ὀρέγεσθαι· „καὶ ἐπίκλοπος ἔπλετο τόξων“ (φ 397). ἠ ασκῶν διὰ λόγων
-                                παραλογίζεσθαι ὡς τὸ „κλέπτε νόῳ“ (Α 132)⁑</p>
+                                ὀρέγεσθαι· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.397</ref>
+                                    <q>καὶ ἐπίκλοπος ἔπλετο τόξων</q>
+                                </cit>. ἠ ασκῶν διὰ λόγων παραλογίζεσθαι ὡς τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.132</ref>
+                                    <q>κλέπτε νόῳ</q>
+                                </cit>⁑</p>
                         </div>
                     </div>
                     <div n="70" type="scholion">

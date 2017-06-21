@@ -227,7 +227,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.153</p>
                         </div>
                         <div type="comment">
-                            <p>το πρόθεσις ήλλακται καὶ πτῶσις <choice>
+                            <p>ὅτι πρόθεσις ήλλακται καὶ πτῶσις <choice>
                                     <abbr>αντ</abbr>
                                     <expan>ἀντὶ</expan>
                                 </choice>
