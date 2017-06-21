@@ -1181,6 +1181,63 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="70" type="scholion">
                         <div type="lemma">
+                            <p>νῦν αὖτ' ἐμὸν ἔγχος ἄλευαι</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.285</p>
+                        </div>
+                        <div type="comment">
+                            <p>προστακτικῶς ἀναγινώσκειν δεῖ διὸ τρίτη ἀπο τέλους ἡ ὀξεῖα· εἰρωνεία
+                                δὲ τοῦτο φησὶν⁑</p>
+                        </div>
+                    </div>
+                    <div n="71" type="scholion">
+                        <div type="lemma">
+                            <p>χάλκεον ὡς δή μιν σῷ·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.286</p>
+                        </div>
+                        <div type="comment">
+                            <p>στικτέον μετα τὸ χάλκεον (286) τὸ γὰρ ὡ̄ς (286) ἀντι τοῦ εἴθε διόπερ
+                                ἀπ ἅλλης ἀρχῆς ἀναγνωστέον.⁑</p>
+                        </div>
+                    </div>
+                    <div n="72" type="scholion">
+                        <div type="lemma">
+                            <p>νῦν δὲ δὴ ἐγγύθι μοι:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.300</p>
+                        </div>
+                        <div type="comment">
+                            <p> βραχὺ διασταλτδιασταλτέον κακός (300). στικτέον δὲ ἄνευθε (300)· τὸ γὰρ οὐδ ἀλέη (301) καθ εαυτὸ προενεκτέον λείποντος τοῦ ἐστι⁑</p>
+                        </div>
+                    </div>
+                    <div n="72" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    <div n="72" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    <div n="72" type="scholion">
+                        <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
