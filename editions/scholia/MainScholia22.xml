@@ -1251,13 +1251,80 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="72" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἕσπερος ὃς κάλλιστος.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.318</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p>ὅτι νῦν τὸν ἕσπερον κάλλιστον, ἐν άλλοις δὲ τὸν ἑωσφόρον φαάντατον·
+                                καὶ οὐ δεῖ ὡς μαχόμενον λαμβανειν ἕτερον δὲ τὸν ἕσπερον ὡς ἂν
+                                παλαιὸς. οἱ δὲ τοῦ <choice>
+                                    <sic>ἑὼσφορου</sic>
+                                    <corr>ἑωσφόρου</corr>
+                                </choice>⁑</p>
+                        </div>
+                    </div>
+                    <div n="73" type="scholion">
+                        <div type="lemma">
+                            <p>ὡς αἰχμῆς ἀπέλαμπ'</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.319</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἐπι τῶν αἰχμὰς ἐχόντων <q>εὐήκεος</q> λέγει καὶ „†τανυήκεος†“.
+                                τὴν γὰρ ἀκμὴν ἀκὴν λέγει. καὶ ὅτι κυρίως ἐνταῦθα ἐπὶ τῆς
+                                ἐπιδορατίδος τῆς εὖ ἠκονημένης, ἐκεῖ δὲ παρῆκται, τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.768</ref>
+                                    <q>τανυήκεας ὄζους</q>
+                                </cit>⁑</p>
+                        </div>
+                    </div>
+                    <div n="74" type="scholion">
+                        <div type="lemma">
+                            <p>τοῦ δὲ καὶ ἄλλο τόσον·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.322</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι οὕτως εἴωθε λέγειν <q>ἄλλο τόσον</q>. ἐπειδὰν ἀπολείπῃ τί τοῦ
+                                ὄλου μικρὸν τέλος, <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:18.378</ref>
+                                    <q>οἱ δή τοι τόσον μὲν ἔχον τέλος</q>
+                                </cit>· καὶ ἐνθάδε οὖν τὸ μὲν ἄλλος σῶμα καθώπλιστο γυμνὸν δὲ μόνον
+                                διεφαίνετο ἀπο τῶν ώμων ἐπι τὸν αὐχένα⁑</p>
+                        </div>
+                    </div>
+                    <div n="75" type="scholion">
+                        <div type="lemma">
+                            <p>φαίνετο δ' ᾗ κληῗδες.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.324</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἔν τισι τῶν ὑπομνημάτων <q>φαῖνεν δὲ κληῗδες</q> ἵν' ᾖ ἐπι τῶν
+                                τευχέων τὰ τεύχῃ οὐκ εκάλυπτε τὴν λαυκανίην. ἀλλ εποίει
+                                φαίνεσθαι⁑</p>
+                        </div>
+                    </div>
+                    <div n="76" type="scholion">
+                        <div type="lemma">
+                            <p>ὄφρα τί μιν <w>προ<add place="supralinear">τι</add>ειποι</w>.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.329</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετεῖται ὅτι γελοῖος, εἰ ἡ μελία ἐπετήδευσεν μὴ ἀποτεμεῖν τὸν
+                                ἀσφάραγον ἵνα προσφωνήσῃ τὸν <persName n="urn:cite2:hmt:pers:pers1"
+                                    >Ἀχιλλέα</persName>· ἀπολογούμενοι δε φασιν ὅτι τὸ ἐκ τύχης
+                                συμβεβηκὸς αἰτιατικῶς ἐξενήνοχεν. δια τὸ ὅμοιον ἀθετεῖται κἀκεῖνο. <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:17.359</ref>
+                                    <q>εὖθ' ὅ δεδειπνήκει· ὁ δὲ παύσατο θεῖος ἀοιδός</q>
+                                </cit>⁑</p>
                         </div>
                     </div>
                     <!--     <div n="" type="scholion">

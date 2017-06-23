@@ -396,6 +396,50 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ουκ εστι φησιν ἐκφυγεῖν⁑</p>
                         </div>
                     </div>
+                    <div n="34" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.310</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἁπαλήν τρυφεράν</p>
+                        </div>
+                    </div>
+                    <div n="35" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.328</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὴν φάρυγγα·</p>
+                        </div>
+                    </div>
+                    <div n="36" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.332</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑφορω</p>
+                        </div>
+                    </div>
+                    <div n="37" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
                     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
