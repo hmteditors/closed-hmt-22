@@ -368,6 +368,20 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>αἱ πλείους <q>δεῖναι δὲ</q></p>
                         </div>
                     </div>
+                    <div n="26" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.344</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν αλλῷ τὸν δ' <choice>
+                                    <abbr>απαμειβομε</abbr>
+                                    <expan>ἀπαμειβομεμενος</expan>
+                                </choice></p>
+                        </div>
+                    </div>
                     <!-- <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
