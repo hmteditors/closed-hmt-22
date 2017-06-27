@@ -505,15 +505,30 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>γράφεται ἔρδεσκεν⁑</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="34" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.388</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ζωὸς ἐν <rs type="urn:cite2:hmt:place:place114"
+                                    >Αργείοισι</rs> φιλοπτολέμοισι μετείω⁑</p>
+                        </div>
+                    </div>
+                    <div n="35" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.402</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἔν τισι <q>πιμπλανται</q>⁑</p>
                         </div>
                     </div>
                 </body>
