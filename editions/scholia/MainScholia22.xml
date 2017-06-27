@@ -1510,10 +1510,42 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:7.327</ref>
                                     <q><persName n="urn:cite2:hmt:pers:pers22">Ἀτρείδη</persName> τε
                                         καὶ ἄλλοι ἀριστῆες <rs type="ethnic"
-                                            urn="urn:cite2:hmt:place:place96">Παναχαιῶν</rs></q>
+                                            n="urn:cite2:hmt:place:place96">Παναχαιῶν</rs></q>
                                 </cit>. οὐ πάρεστι δὲ ὁ <persName n="urn:cite2:hmt:pers:pers22"
                                     >Ἀγαμέμνων</persName> ἐπι ταύτης τῆς μάχης. ἀλλ επι τῆς σκηνῆς
                                 ἔτι τραυματίας ὦν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="89" type="scholion">
+                        <div type="lemma">
+                            <p>ἐπειδὴ τὸνδ' <choice>
+                                    <sic>ἂρδρα</sic>
+                                    <corr>ἄνδρα</corr>
+                                </choice></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.379-22.384</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι τὴν αιτίαν προτέταχεν <q>ἐπειδὴ τόνδ' ἄνδρα θεοὶ</q> ἔδει δὲ
+                                οὕτως <q>εἰ δ' ἄγετ' ἀμφι <choice>
+                                        <abbr>πο</abbr>
+                                        <expan>πόλιν</expan>
+                                    </choice> συν τευχεσι πειρηθῶμεν //ὄφρα// κ' ἔτι γνῶμεν <rs
+                                        type="ethnic" n="urn:cite2:hmt:place:place6">Τρώων</rs>
+                                    νόον, ἠ καταλείψουσι πόλιν ἄκρην τοῦδε πεσόντος, ἢ ἐμένειν
+                                    μεμάασιν</q>,<q>ἐπειδὴ τόνδ' ἄνδρα θεοὶ δαμάσασθαι ἔδωκαν</q>. ὁ
+                                δε <persName n="urn:cite2:hmt:pers:pers211">Διονύσιος</persName>
+                                διστάζει μὴ προς τὴν ἀπόλειψιν τοῦ χρόνου παρασκευάζει γὰρ τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.2</ref>
+                                    <q>ἐπειδὴ νῆάς τε καὶ <placeName n="urn:cite2:hmt:place:place22"
+                                            >Ἑλλήσποντον</placeName> ἴ̈κοντο·</q>
+                                </cit> καὶ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:12.423</ref>
+                                    <q>ἐπιτὸν ὃς βέβλητο</q>
+                                </cit> τὰ γὰρ τοιαῦτα ἐσημειοῦντο πρὸς κρίσιν ποιημάτων. ὅτι σπανίως
+                                    <persName n="urn:cite2:hmt:pers:pers17">Ὅμηρος</persName>
+                                κακομέτρους ποιεῖ ⁑</p>
                         </div>
                     </div>
                     <!--     <div n="" type="scholion">

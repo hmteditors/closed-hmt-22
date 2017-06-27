@@ -32,7 +32,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.31</p>
-                            <w>ρ<add place="supralinear">ε</add></w>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -47,22 +46,20 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.75</p>
-                            <w>ρ<add place="supralinear">ε</add></w>
                         </div>
                         <div type="comment">
                             <p>αἰδεο</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="3" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.31</p>
-                            <w>ρ<add place="supralinear">ε</add></w>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.380</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἔρδεσκεν</p>
                         </div>
                     </div>
                 </body>
