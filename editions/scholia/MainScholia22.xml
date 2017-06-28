@@ -1548,6 +1548,95 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 κακομέτρους ποιεῖ ⁑</p>
                         </div>
                     </div>
+                    <div n="90" type="scholion">
+                        <div type="lemma">
+                            <p>ᾐράμεθα μέγα κῦδος</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.393</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετοῦνται στίχοι δύο ὅτι παρα τὴν ἀξίαν <persName
+                                    n="urn:cite2:hmt:pers:pers1">Ἀχιλλεως</persName> οἱ λόγοι. αὐτὸς
+                                γὰρ ἦν ὁ λέγων <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:16.242-16.244</ref>
+                                    <q>ὄφρα καὶ <persName n="urn:cite2:hmt:pers:pers172"
+                                            >Ἕκτωρ</persName> εἴσεται ῆ ρα καὶ οἶος ἐπίστηται
+                                        πολεμίζειν ἡμέτερος θεράπων</q>
+                                </cit></p>
+                        </div>
+                    </div>
+                    <div n="91" type="scholion">
+                        <div type="lemma">
+                            <p>ἀμφοτέρων μετ' όπισθε ποδῶν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.396</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι νῦν τένοντας εἶπεν τὰ διατεταμένα τῶν σφυρῶν νεῦρα ὄπισθεν τῆς
+                                κνήμης</p>
+                        </div>
+                    </div>
+                    <div n="92" type="scholion">
+                        <div type="lemma">
+                            <p>ἐκ δίφροιο δ' ἔδησε,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.398</p>
+                        </div>
+                        <div type="comment">
+                            <p>δια τί <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεύς</persName>
+                                θανόντα σύρει τὸν <persName n="urn:cite2:hmt:pers:pers172"
+                                    >Ἕκτορα</persName> καὶ λέγομεν οὐ δι' ωμότητα ὅς γε καὶ
+                                    <persName n="urn:cite2:hmt:pers:pers170">Ἠετίωνα</persName>
+                                φονεύσας οὐκ εσύλησεν ἀλλα συν αυτοῖς τοῖς ὅπλοις ἔθαψεν. ἀλλ ὅτι
+                                πρότερος ὁ <persName n="urn:cite2:hmt:pers:pers172">Ἔκτωρ</persName>
+                                <choice>
+                                    <sic>εἱς</sic>
+                                    <corr>εἰς</corr>
+                                </choice> τὸν <persName n="urn:cite2:hmt:pers:pers158"
+                                    >Πάτροκλον</persName>
+                                <q>ἀεικέα μήσατο ἔργα</q> οἷα καὶ λέγει περι αυτοῦ <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:18.176-18.177</ref>
+                                    <q>κεγαλὴν δε θυμὸς ἄνωγε πῆξαι ἐπι σκολόπεσσι ταμόνθ' ἁπαλῆς
+                                        ὑπο δειρῆσ</q>
+                                </cit> παρανομοῦσι δὲ οὐχ οἱ αμυνόμενοι, ἀλλ οἱ ἄρξαντες· ὁ δὲ
+                                    <persName n="urn:cite2:hmt:pers:pers86">Καλλίμαχος</persName>
+                                φησὶν ὅτι Θεταλοῖς τοὺς τῶν φιλτάτων φονέας σύρειν περι τοὺς τῶν
+                                φονευθέντων τάφους. <persName>Σίμων</persName> γάρ φησι τοῦτον
+                                εξάψαι τοῦ δίφρου τὸν φονέα καὶ περὶ τὸν τοῦ τετελευτηκότος τάφον
+                                ἔλκειν καὶ τὸν <persName n="urn:cite2:hmt:pers:pers1"
+                                    >Ἀχιλλέα</persName>  ὡς Θεσσαλὸν πατρίῳ ἔθει τοῦτο ποιῆσαι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="93" type="scholion">
+                        <div type="lemma">
+                            <p>ὡσει άπασα</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.410</p>
+                        </div>
+                        <div type="comment">
+                            <p>τινὲς περιέργως δια μόνου τοῦ <rs type="waw">ϊ</rs> γράφοντες
+                                ἀποδιδόασιν ὡς αυτῆ ἅπασα. οὐκ οῖδεν δὲ ὁ ποιητὴς οὔτε τὴν <rs
+                                    type="waw">ϊ</rs> οὔτε τὴν σφείς ἔστιν οὖν ὅμοιον τῷ ἐν <cit>
+                                    <ref type="cite">urn:cite2:hmt:citedworks:work1</ref>
+                                    <choice>
+                                        <abbr>οδ</abbr>
+                                        <expan>Ὀδυσσείᾳ</expan>
+                                    </choice>
+                                </cit>· <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg002:10.419-10.420</ref>
+                                    <q>σοὶ μὲν νοστήσαντι διοτρεφὲς ὧδε χωρῆσαι, ὡς ει τ' εἰς
+                                            <placeName n="urn:cite2:hmt:place:place63"
+                                            >Ϊθάκην</placeName> ἀφικοίτο</q>
+                                </cit>⁑</p>
+                        </div>
+                    </div>
                     <!--     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
