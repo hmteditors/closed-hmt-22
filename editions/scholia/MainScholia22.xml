@@ -1637,6 +1637,63 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit>⁑</p>
                         </div>
                     </div>
+                    <div n="94" type="scholion">
+                        <div type="lemma">
+                            <p>‡ σμύχοιτο:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.411</p>
+                        </div>
+                        <div type="comment">
+                            <p> καταφλέγοιτο· ὁ δὲ λόγος. τοιοῦτος δέ φησι θρῆνος διεγήγερτο ὡσπερεὶ
+                                τῆς <placeName n="urn:cite2:hmt:place:place6">Ἰλίου</placeName>
+                                πάσης ὑπο πυρὸς <choice>
+                                    <abbr>κατφλεγομένης</abbr>
+                                    <expan>καταφλεγομένης</expan>
+                                </choice>·</p>
+                        </div>
+                    </div>
+                    <div n="95" type="scholion">
+                        <div type="lemma">
+                            <p>κηδόμενοι περ, </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.416</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὕτως πληθυντικὼς αἱ <persName n="urn:cite2:hmt:pers:pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀριστάρχου</expan>
+                                    </choice></persName> καίπερ ὀδυνώμενοι καὶ αὐτοί ⁑</p>
+                        </div>
+                    </div>
+                    <div n="96" type="scholion">
+                        <div type="lemma">
+                            <p>δυσάμμορος·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.428</p>
+                        </div>
+                        <div type="comment">
+                            <p> τὸ <q>δυσάμμορος</q> ἐπίθετον ἑκατέρωθι δύναται προσδίδοσθαι βέλτιον
+                                δὲ ἴσως τοῖς ἑξῆς⁑</p>
+                        </div>
+                    </div>
+                    <div n="97" type="scholion">
+                        <div type="lemma">
+                            <p>τέκνον ἐγω δειλὴ.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.431</p>
+                        </div>
+                        <div type="comment">
+                            <p> στικτέον καὶ μετὰ τὸ <q>τέκνον</q> καὶ μετα τὸ <q>δειλὴ</q> βέλτιον
+                                δέ ἐστι συνάπτειν μετὰ τὸ τέκνον <choice>
+                                    <abbr>παντ</abbr>
+                                    <expan>πάντα</expan>
+                                </choice> ἵν' ᾖ τὸ ἑξῆς τί νυ βείομαι εγὼ δειλη αἰνὰ παθοῦσα ⁑</p>
+                        </div>
+                    </div>
                     <!--     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
