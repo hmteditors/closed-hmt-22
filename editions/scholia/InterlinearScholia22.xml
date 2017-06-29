@@ -263,7 +263,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.149</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.149@λιαρω</p>
                         </div>
                         <div type="comment">
                             <p>θερμῶ</p>
@@ -274,7 +274,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.151</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.151@εἰκῦια χαλάζῃ</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -288,7 +288,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.153</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.153@πλυνοὶ</p>
                         </div>
                         <div type="comment">
                             <p>εν οῖς πλύνουσι</p>
@@ -299,7 +299,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.159</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.159@οὐδε βοείην</p>
                         </div>
                         <div type="comment">
                             <p>οὐ θυμα οῦ βύρσαν</p>
@@ -310,7 +310,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.162</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.162@τέρματα</p>
                         </div>
                         <div type="comment">
                             <p>τάς καμπτήρας</p>
@@ -321,7 +321,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.163</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.163@τρωχῶσι</p>
                         </div>
                         <div type="comment">
                             <p>τρέχωσι</p>
@@ -332,7 +332,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.197</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.197@παραφθὰς </p>
                         </div>
                         <div type="comment">
                             <p>προλαβών</p>
@@ -343,7 +343,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.244</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.244@φειδωλὴ</p>
                         </div>
                         <div type="comment">
                             <p>φειδω</p>
@@ -354,7 +354,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.247</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.247@κερδοσσύνῃ</p>
                         </div>
                         <div type="comment">
                             <p>πονηρίᾳ απάτη</p>
@@ -365,7 +365,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.251</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.251@δίον</p>
                         </div>
                         <div type="comment">
                             <p>εδιώχθην</p>
@@ -376,7 +376,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.253</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.253@ἁλοίην</p>
                         </div>
                         <div type="comment">
                             <p>ληφθείην</p>
@@ -387,7 +387,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.255</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.255@ἁρμονιάων</p>
                         </div>
                         <div type="comment">
                             <p>συνθηκῶν</p>
@@ -398,7 +398,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.261</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.261@ἄλαστε</p>
                         </div>
                         <div type="comment">
                             <p>αλιτήριε</p>
@@ -409,7 +409,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.301</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.301@οὐδ’ ἀλέη</p>
                         </div>
                         <div type="comment">
                             <p>ουκ εστι φησιν ἐκφυγεῖν⁑</p>
@@ -420,7 +420,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.310</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.310@ἀμαλήν</p>
                         </div>
                         <div type="comment">
                             <p>ἁπαλήν τρυφεράν</p>
@@ -431,7 +431,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.328</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.328@ἀσφάραγον</p>
                         </div>
                         <div type="comment">
                             <p>τὴν φάρυγγα·</p>
@@ -442,7 +442,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.332</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.332@οπίζεο</p>
                         </div>
                         <div type="comment">
                             <p>ὑφορω</p>
@@ -453,7 +453,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.351</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.351@ἐρύσασθαι</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -467,7 +467,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.358</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.358@μή τοί, τι θεῶν μήνιμα γένωμαι </p>
                         </div>
                         <div type="comment">
                             <p>μή πως τῆς ἐκ θεῶν σοι βλάβης αίτιος καταστῶ⁑</p>
