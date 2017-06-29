@@ -531,6 +531,50 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἔν τισι <q>πιμπλανται</q>⁑</p>
                         </div>
                     </div>
+                    <div n="36" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.411</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> θηλυκῶς ἡ <q><placeName n="urn:cite2:hmt:place:place6"
+                                        >Ί̈λιος</placeName></q></p>
+                        </div>
+                    </div>
+                    <div n="37" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.416</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite2:hmt:pers:pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> πληθυντικῶς <q>κηδομενοί περ</q></p>
+                        </div>
+                    </div>
+                    <div n="38" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.431</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite2:hmt:pers:pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> δια τοῦ <rs type="waw"
+                                >η</rs> <q>βήομαι</q>· <q>βηώσομαι</q></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
