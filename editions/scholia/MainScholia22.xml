@@ -1734,6 +1734,38 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἀπροσδοκήτως ἐμπεσὸν εἰκότως ἐπεκράτησεν⁑</p>
                         </div>
                     </div>
+                    <div n="101" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλ' ἥ γ' ἱ̈στὸν ὕφαινε.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.440</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀσυμπαθὴς ἡ <persName n="urn:cite2:hmt:pers:pers171"
+                                    >Ἀνδρομάχῃ</persName> ἐν τοσούτω θορύβῳ κατ οῖκον ἀτρεμοῦσα καὶ
+                                ταῦτα τὴν <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλέως</persName>
+                                ἔφοδον οὐκ ἀγνοοῦσα, ἔοικεν οὖν φησὶν ὁ <persName><choice>
+                                        <abbr>Ἀρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> προκαταχρησάμενος ὁ ποιητὴς τῷ τῆς
+                                    <persName n="urn:cite2:hmt:pers:pers171">Ἀνδρομάχης</persName>
+                                προσώπω κατα τὴν προς <persName n="urn:cite2:hmt:pers:pers172"
+                                    >Έκτορος</persName> κοινολογίαν (sc. Ζ 394-502) ἀπεσχίσθαι νῦν
+                                τοῦ προσώπου⁑</p>
+                        </div>
+                    </div>
+                    <div n="" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
                     <!--     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
