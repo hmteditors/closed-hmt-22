@@ -1694,6 +1694,46 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> ἵν' ᾖ τὸ ἑξῆς τί νυ βείομαι εγὼ δειλη αἰνὰ παθοῦσα ⁑</p>
                         </div>
                     </div>
+                    <div n="98" type="scholion">
+                        <div type="lemma">
+                            <p>εὐχωλὴ κατα άστυ πελέσκετο.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.433</p>
+                        </div>
+                        <div type="comment">
+                            <p>καθ εκάστην οὖν ἡμέραν φησὶν ὡς θεῷ σωτῆρι σοι ηὔχοντο· καὶ ὁ ζῶν
+                                ἰσόθεος. νῦν οὐδὲ νεκρὸς εὐτυχής ⁑</p>
+                        </div>
+                    </div>
+                    <div n="99" type="scholion">
+                        <div type="lemma">
+                            <p>κατα πτόλιν οἵ σε θέον·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.434</p>
+                        </div>
+                        <div type="comment">
+                            <p> ἐμοὶ μέν φησι δόξα τοῖς δε πολίταις ὄφελος⁑</p>
+                        </div>
+                    </div>
+                    <div n="100" type="scholion">
+                        <div type="lemma">
+                            <p>τέκνον ἐγὼ δειλὴ τί νυ βείομαι·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.431</p>
+                        </div>
+                        <div type="comment">
+                            <p> ἀντι τοῦ ἐς τί ἔτι βιώσω ὅ ἑστι ζήσω· πῶς <persName
+                                    n="urn:cite2:hmt:pers:pers535">Ἑκάβη</persName> μὲν οὐ πίπτει,
+                                    <persName n="urn:cite2:hmt:pers:pers171">Ἀνδρομάχῃ</persName>
+                                τοῦτο πάσχει· ῥητεόν οὖν ὅτι ἐκείνη μὲν ἐκ τοῦ· κατολίγον. καὶ ἐκ
+                                προσαγωγῆς δεξαμένη τὸ πάθος οὐκ ηττήθη τῷ κακῷ τοσοῦτο <persName
+                                    n="urn:cite2:hmt:pers:pers171">Ἀνδρομάχῃ</persName> δὲ
+                                ἀπροσδοκήτως ἐμπεσὸν εἰκότως ἐπεκράτησεν⁑</p>
+                        </div>
+                    </div>
                     <!--     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>

@@ -393,6 +393,41 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἐν αλλω <q>τερπικεραυνος</q>⁑</p>
                         </div>
                     </div>
+                    <div n="28" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.411</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite2:hmt:pers:pers16"><choice>
+                                        <abbr>Αριστ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> <q><choice>
+                                        <abbr><choice>
+                                                <sic>ἐμοίχοιτ</sic>
+                                                <corr>σμοίχοιτ</corr>
+                                            </choice></abbr>
+                                        <expan>σμοίχοιτο</expan>
+                                    </choice></q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="29" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.429</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται <q>γέροντες</q> ⁑</p>
+                        </div>
+                    </div>
                     <!-- <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
