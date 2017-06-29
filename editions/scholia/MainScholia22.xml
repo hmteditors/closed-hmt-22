@@ -1751,8 +1751,64 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </choice></persName> προκαταχρησάμενος ὁ ποιητὴς τῷ τῆς
                                     <persName n="urn:cite2:hmt:pers:pers171">Ἀνδρομάχης</persName>
                                 προσώπω κατα τὴν προς <persName n="urn:cite2:hmt:pers:pers172"
-                                    >Έκτορος</persName> κοινολογίαν (sc. Ζ 394-502) ἀπεσχίσθαι νῦν
-                                τοῦ προσώπου⁑</p>
+                                    >Έκτορος</persName> κοινολογίαν ἀπεσχίσθαι νῦν τοῦ προσώπου⁑</p>
+                        </div>
+                    </div>
+                    <div n="102" type="scholion">
+                        <div type="lemma">
+                            <p>θρόνα·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.441</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὰ βαπτὰ ἔρια κατα μετουσίαν ὁμοίως τοῖς ποιοῦσι τὰ ποιούμενα⁑</p>
+                        </div>
+                    </div>
+                    <div n="103" type="scholion">
+                        <div type="lemma">
+                            <p>ποικίλ' έπασσεν·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.441</p>
+                        </div>
+                        <div type="comment">
+                            <p>πάσσειν /\/\Κύπριοι/\/\ τὸ ποικίλλειν ἀφ οῦ παστὸς ὁ θάλαμος⁑</p>
+                        </div>
+                    </div>
+                    <div n="104" type="scholion">
+                        <div type="lemma">
+                            <p>κωκυτοῦ δ' ήκουσεν.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.447</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντι τοῦ <q>θρήνου ήκουσεν</q> ἐζήτηται δὲ πῶς <choice>
+                                    <abbr>τοσοῦτου</abbr>
+                                    <expan>τοσούτου</expan>
+                                </choice> γενομένου θορύβου μόλις <persName
+                                    n="urn:cite2:hmt:pers:pers171">Ἀνδρομάχη</persName> προῆλθεν.
+                                φασὶ δὲ ὡς ὅτι ἡ προτέρα τοῦ ἀνδρὸς ἐπίπληξις ἡ εν τῆ <num value="6"
+                                    >Ζ</num> σωφρονεῖν αὐτὴν ἀναγκάζει⁑</p>
+                        </div>
+                    </div>
+                    <div n="105" type="scholion">
+                        <div type="lemma">
+                            <p>ἡδ' αῦτις δμωῇσι</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.445-22.449</p>
+                        </div>
+                        <div type="comment">
+                            <p>αὔξει τὸ <choice>
+                                    <abbr>πάθ</abbr>
+                                    <expan>πάθος</expan>
+                                </choice>, τοσοῦτον γὰρ ἀπέχει τοῦ ἐννοεῖν τί τῶν συμβεβηκότων ὡς
+                                καὶ λουτρὰ τῷ ἀνδρὶ παρασκευάζειν μονονουχὶ ὁρῶσα τὸν <persName
+                                    n="urn:cite2:hmt:pers:pers172">Ἕκτορα</persName> διὸ καὶ
+                                ἐπεφώνησεν ὁ ποιητὴς τὸ <q>νηπίη οὐδ' ἐνόησεν</q> ὥσπερ ἐλεῶν τὴν
+                                ἄγνοιαν αὐτῆς⁑</p>
                         </div>
                     </div>
                     <div n="" type="scholion">
