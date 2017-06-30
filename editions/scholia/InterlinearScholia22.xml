@@ -467,7 +467,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.358@μή τοί, τι θεῶν μήνιμα γένωμαι </p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.358@μή τοί, τι θεῶν μήνιμα
+                                γένωμαι </p>
                         </div>
                         <div type="comment">
                             <p>μή πως τῆς ἐκ θεῶν σοι βλάβης αίτιος καταστῶ⁑</p>
@@ -496,6 +497,20 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>αντ</abbr>
                                     <expan>ἀντὶ</expan>
                                 </choice> τοῦ <q>βουλήμενοι</q></p>
+                        </div>
+                    </div>
+                    <div n="42" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.4410@θρόνα ποικίλ’ ἔπασσεν</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ανθ</abbr>
+                                    <expan>ἄνθη</expan>
+                                </choice> ποικίλα ἐξ ὣν βάπτουσι</p>
                         </div>
                     </div>
                 </body>
