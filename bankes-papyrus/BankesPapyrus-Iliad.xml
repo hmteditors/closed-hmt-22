@@ -43,9 +43,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <l n="217">την δ᾽ αῦτε προσεειπε <w>γέρ<unclear>ω</unclear><gap unit="letters"
                             extent="1"/></w>
                     <persName n="urn:cite:hmt:pers.pers145">Πριαμος</persName> θεοειδης· </l>
-                <l n="218">μη μ᾽ εθέλοντ᾽ ϊέναι κατε<gap unit="letters" extent="4"/>νε· μη δε μοι
-                    αυτη</l>
-                <l n="219">ὀρνις ἐνι μμεγάροισι κακος <w><unclear/>έλευ</w> //οὐδέ// με πεισεις·</l>
+                <l n="218">μη μ᾽ εθέλοντ᾽ ϊέναι <w>κατε<gap unit="letters" extent="4"/>νε</w>· μη δε
+                    μοι αυτη</l>
+                <l n="219">ὀρνις ἐνι μμεγάροισι κακος <w><unclear/>έλευ</w>· ουδέ με πεισεις·</l>
                 <l n="220">ει μεν γαρ τις μ᾽ αλλος επιχθονίων εκελευεν,</l>
                 <l n="221">ἠ οἱ μάντιες εισι θυοσκόοι η ἱ̈ερῆες·</l>
                 <l n="222">ψεῦδός κεν φαῖμεν και νοσφιζοίμεθα μᾶλλον·</l>
@@ -61,29 +61,43 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <l n="227"><choice>
                         <orig>αγκάς</orig>
                         <reg>αγκές</reg>
-                    </choice> ἑλόντ᾽ εμον ὑ̄̄̄<gap unit="letters" extent="1"/>ον επὴν γόου εξ έρον
-                    εἱην·</l>
+                    </choice> ἑλόντ᾽ εμον <w>ὑ̄̄̄<gap unit="letters" extent="1"/>ον</w> επὴν γόου εξ
+                    έρον εἱην·</l>
                 <l n="228">ῆ· <w>κ<unclear>α</unclear>ι</w> φωριαμων επίθηματα κᾱλ᾽ ἀνέωγεν·</l>
                 <l n="229">ένθεν δωδεκα μεν περικαλλέας έξ ἑλε πέπλους·</l>
                 <l n="230">δωδεκα δ᾽ <w>ἁπλ<unclear>ο</unclear><gap unit="letters" extent="1"
                         />δας</w> χλαίνας· τόσσους δε τάπητας·</l>
                 <l n="231">τόσσα δε φαρεα <w>λ<unclear>ε</unclear><gap unit="letters" extent="1"
-                        />κά</w>· τόσους δ <gap unit="letters" extent="1"/>πι τοῖσι χιτῶνας·</l>
-                <l n="232">χρυσοῦ δὲ στήσας ἔφερεν δέκα πάντα τάλαντα·</l>
-                <l n="233">ἐκ δὲ δύ᾽ αἴθωνας τρίποδας. πίσυρας δὲ λέβητας·</l>
-                <l n="234">ἐκ δὲ δέπας περικαλλὲς. ὅ, οἱ, Θρῇκες πόρον ἄνδρες</l>
-                <l n="235">ἐξ ἑσίην ἐλθόντι, μέγα κτέρας· οὐδέ νυ τοῦ περ</l>
-                <l n="236">φείσατ᾽ ἐνι μεγάροις ὃ γέρων· περὶ δ᾽ ήθελε θυμῷ</l>
-                <l n="237">λύσασθαι φίλον υἱόν· ὃ δὲ <rs type="ethnic" n="urn:cite:hmt:place.place6"
-                        >Τρῶας</rs> μὲν ἅπαντας</l>
-                <l n="238">αἰθούσης ἀπέεργεν. ἔπεσσ᾽ αἰσχροῖσιν ἐνίσσων·</l>
-                <l n="239">ἔρρετε λωβητῆρες, ἐλεγχέες. οὔ νυ καὶ ὑμῖν</l>
-                <l n="240">οἴκοι ἔνεστι γόος, ὅτι μ᾽ ἤλθετε κηδήσοντες·</l>
-                <l n="241">ἦ οὔνεσθ᾽, ὅτι μοι <persName n="urn:cite:hmt:pers.pers8">Κρονίδης
-                        Ζεὺς</persName> ἄλγε᾽ <choice>
-                        <orig>ἔδωκε</orig>
-                        <reg>ἔδωκε</reg>
-                    </choice>.</l>
+                        />κά</w>· τόσους δ <w><gap unit="letters" extent="1"/>πι</w> τοῖσι
+                    χιτῶνας·</l>
+                <l n="232">χρῡσου δε στῆσας <w><unclear>ε</unclear>φερεν</w> δεκα παντα
+                    ταλαντα·</l>
+                <l n="233">εκ δε δῠ αίθωνας <w><gap unit="letters" extent="2"
+                        /><unclear>ι</unclear>ποδας</w>· <w>π<unclear>ίσ</unclear>υρας</w> δε
+                    λέβητας·</l>
+                <l n="234">εκ δε δέπας <w>περι<gap unit="letters" extent="3"/>λες</w>· τό οἱ Θρῆκες
+                    πόρον ανδρες</l>
+                <l n="235">ἐξ εσίην <w>ελθον<gap unit="letters" extent="3"/></w>
+                    <w><gap unit="letters" extent="3"/>α</w> κτέρας· οuδε· νυ τοῦ περ</l>
+                <l n="236">φεῖσατ᾽ ενι <w>μμ<gap unit="letters" extent="6"/>ς</w> ὁ γερων· περι δ᾽
+                    ήθελε θῡμῷ</l>
+                <l n="237">λῡσασθαι φιλον <w>ὑ̄<gap unit="letters" extent="3"/></w>
+                    <gap unit="letters" extent="1"/>
+                    <w><gap unit="letters" extent="1"/>ε</w>
+                    <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωας</rs> μεν ἁπαντας</l>
+                <l n="238">αιθούσσης <w>απέε<gap unit="letters" extent="4"/></w>
+                    <w><gap unit="letters" extent="1"/>´πεσσ᾽</w> αισχροῖσιν ενίσσων·</l>
+                <l n="239">έρρετε <w>λωβητῆρε<unclear>ς</unclear></w>
+                    <w>ε<unclear>λ</unclear>εγχέες</w>· οὔ νυ και υμειν</l>
+                <l n="240">οἶκοι εστι γόος· ὁτε μ ηλθετε κηδήσοντες·</l>
+                <l n="241">η <choice>
+                        <orig>ὀ<del>υ</del>νεσθ᾽</orig>
+                        <reg>ὀ<del>υ</del>νοσθ᾽</reg>
+                    </choice>· <choice>
+                        <orig>ὁτε</orig>
+                        <reg>ὁτι</reg>
+                    </choice> μοι <persName n="urn:cite:hmt:pers.pers8">Κρονίδης /\/\Ζευς/\/\</persName>
+                    άλγε ἔδωκεν</l>
                 <l n="242">παῖδ᾽ ὀλέσαι τὸν ἄριστον· ἀτὰρ γνώσεσθε καὶ ὔμμες.</l>
                 <l n="243">ῥηΐτεροι γὰρ μᾶλλον <rs type="ethnic" n="urn:cite:hmt:place.place96"
                         >Ἀχαιοῖσιν</rs>. δὴ, ἔσεσθε</l>
