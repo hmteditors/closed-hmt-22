@@ -59,7 +59,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>Ἀριστχ</abbr>
                                     <expan>Ἀρίσταρχος</expan>
                                 </choice>
-                                <q>ἑστήκει</q> άνευ τοῦ ϊ̄</p>
+                                <q>ἑστήκει</q> άνευ τοῦ <rs type="waw">ϊ</rs></p>
                         </div>
                     </div>
                     <div n="3" type="scholion">
@@ -88,7 +88,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <choice>
                                     <abbr>Ἀρισταρχ</abbr>
                                     <expan>Ἀρίσταρχος</expan>
-                                </choice> δια τοῦ τ̄ ἄλλοι δὲ οὕσοι⁑</p>
+                                </choice> δια τοῦ <rs type="waw">τ</rs> ἄλλοι δὲ οὕσοι⁑</p>
                         </div>
                     </div>
                     <div n="5" type="scholion">
@@ -165,7 +165,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> διὰ <choice>
                                     <abbr>τ</abbr>
                                     <expan>τοῦ</expan>
-                                </choice> τ̄ <q>εἴποτέ τοι</q>
+                                </choice>
+                                <rs type="waw">τ</rs>
+                                <q>εἴποτέ τοι</q>
                             </p>
                         </div>
                     </div>
@@ -270,7 +272,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><choice>
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
-                                </choice> δια τοῦ ε̄ πέτετο⁑</p>
+                                </choice> δια τοῦ <rs type="waw">ε</rs> πέτετο⁑</p>
                         </div>
                     </div>
                     <div n="18" type="scholion">
