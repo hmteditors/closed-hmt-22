@@ -513,6 +513,68 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> ποικίλα ἐξ ὣν βάπτουσι</p>
                         </div>
                     </div>
+                    <div n="43" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.490@παναφήλικα</p>
+                        </div>
+                        <div type="comment">
+                            <p>πάντων έρημον τῶν ηλικιωτῶν</p>
+                        </div>
+                    </div>
+                    <div n="44" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.491@ὑπεμνήμυκε</p>
+                        </div>
+                        <div type="comment">
+                            <p>κατεστύγηακε κάτω <choice>
+                                    <abbr>βλεπ</abbr>
+                                    <expan>βλεπει</expan>
+                                </choice>⁑</p>
+                        </div>
+                    </div>
+                    <div n="45" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.492@δευόμενος</p>
+                        </div>
+                        <div type="comment">
+                            <p>ενδεὴς <choice>
+                                    <sic>ὼν</sic>
+                                    <corr>ών</corr>
+                                </choice></p>
+                        </div>
+                    </div>
+
+                    <div n="46" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.495@ἐδίην’</p>
+                        </div>
+                        <div type="comment">
+                            <p>εβρεξε</p>
+                        </div>
+                    </div>
+                    <div n="47" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.495@ὑπερώην</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸν οὐρανίσκον</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
