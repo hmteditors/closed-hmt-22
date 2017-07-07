@@ -710,28 +710,29 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <l n="557">σην ες πατριδα γαιαν· <choice>
                         <sic>επεῖ</sic>
                         <corr>επεὶ</corr>
-                    </choice> με πρωτον έασας·</l> 
+                    </choice> με πρωτον έασας·</l>
                 <l n="559">τον δ αρ’ υπόδρα ϊδων προσεφη ποδας ωκυς <persName
                         n="urn:cite:hmt:pers.pers1">Αχιλλευς</persName>·</l>
-                <l n="560">μηκετι νυν μ᾽ ερέθιζε γερον· νοέω δε <w>κ<unclear>α</unclear>ι</w> <w><unclear>α</unclear>υτος</w></l>
-                <l n="561"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορά</persName> τοι λῦσαι·
-                        <persName n="urn:cite:hmt:pers.pers8">Διόθεν</persName> δέ μοι ἄγγελος
-                    ἦλθε</l>
-                <l n="562">μήτηρ. ἥ μ᾽ ἔτεκεν, θυγάτηρ ἁλίοιο γέροντος·</l>
-                <l n="563">καὶ δὲ σὲ γιγνώσκω <persName n="urn:cite:hmt:pers.pers145"
-                        >Πρίαμε</persName> φρεσὶν. οὐδέ με λήθεις</l>
-                <l n="564">ὅττι θεῶν τίς σ᾽. ἦγε θοὰς ἐπὶ νῆας <rs type="ethnic"
-                        n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>·</l>
-                <l n="565">οὐ γάρ κε τλαίῃ βροτὸς ἐλθέμεν· οὐδὲ μάλ᾽ ἡβῶν</l>
-                <l n="566">ἐ στρατὸν· οὐδε γαρ ἂν φυλακοὺς λάθοι. οὐδέ́ <choice>
-                        <orig>τ᾽</orig>
-                        <reg>κ</reg>
-                    </choice> ὀχῆα</l>
-                <l n="567">ῥεῖα μετ᾽ ὀχλίσσειε θυράων ἡμετεράων·</l>
-                <l n="568">τῶ νῦν μή μοι μᾶλλον ἐν ἄλγεσι θυμὸν ὀρίνῃς.</l>
-                <l n="569">μή σε γέρον οὐδ᾽ αὐτὸν ἐνι κλισίῃσιν ἐάσω</l>
-                <l n="570">καὶ ἱ̈κέτην περ ἐόντα. <persName n="urn:cite:hmt:pers.pers8"
-                        >Διὸς</persName> ἀλίτωμαι ἐφετμάς·</l>
+                <l n="560">μηκετι νυν μ᾽ ερέθιζε γερον· νοέω δε <w>κ<unclear>α</unclear>ι</w>
+                    <w><unclear>α</unclear>υτος</w></l>
+                <l n="561"><persName n="urn:cite:hmt:pers.pers172">Εκτορά</persName> τοι λῡσαι·
+                        <persName n="urn:cite:hmt:pers.pers8">Διόθεν</persName> δέ μοι άγγελος
+                    ηλθε</l>
+                <l n="562">μητηρ ὴ μ᾽ έτεκεν θυγατηρ ἁλίοιο γεροντος·</l>
+                <l n="563">και δε σε γεινωσκω <persName n="urn:cite:hmt:pers.pers145"
+                        >Πριαμε</persName> φρεσὶν· ουδέ με ληθεις</l>
+                <l n="564">οτ᾽τι θεων τις᾽ σ᾽ ὴγε θοας επι νῆας <rs type="ethnic"
+                        n="urn:cite:hmt:place.place96">Αχαιων</rs>·</l>
+                <l n="565">ου γάρ κεν τλαίη βροτος ελθεμεν ουδε μαλ᾽ ἡβῶν</l>
+                <l n="566">ες στρατον· ουτε γαρ αν φυλακας λαθοι· ουδε <choice>
+                        <sic><unclear>γ</unclear></sic>
+                        <corr>κ</corr>
+                    </choice> οχῆα</l>
+                <l n="567">ρεῖα μετ οχλίσσειε θυρᾱων ἡμετερᾱων·</l>
+                <l n="568">τω νῡν μη μοι μαλλον εν ά̆λγεσι θῡμον ὀρείνοις·</l>
+                <l n="569">μη σε γερον ουδ αυτον ενι κλισιῃσιν ε̄ασω</l>
+                <l n="570">και <w>ἱ̈κ<unclear>έ</unclear>την</w> περ εοντα· <persName
+                        n="urn:cite:hmt:pers.pers8">Διος</persName> δαλίτωμαι εφετμὰς·</l>
                 <l n="571">ὡς ἔφατ᾽. ἔδεισεν δ᾽ ὃ γέρων καὶ ἐπείθετο μύθῳ· </l>
                 <l n="572"><persName n="urn:cite:hmt:pers.pers1">Πηλείδης</persName> δ᾽ οἴκοιο λέων
                     ὡς ἆλτο θύραζε·</l>
