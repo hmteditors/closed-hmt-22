@@ -7,7 +7,7 @@
 	- Byzantine
 	- Deluxe Readers Guide
 	- Scholia
-![12r.png](githubusercontent.com/hmteditors/hmt-22/master/keystone/12r.png)
+![12r.png](https://githubusercontent.com/hmteditors/hmt-22/master/keystone/12r.png)
 
 # Editing Process
 
