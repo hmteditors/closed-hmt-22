@@ -1,0 +1,16 @@
+Using Scala:
+	Why:
+		- a more logical, sophisticated language to work with large amounts of data
+	How:
+		- load our text
+		- using computePitch (function created for this purpose), we can separate out the accents from their words
+			*picture*
+		- can filter out results based on specific accents (filtering out graves) or distinct patterns
+		- does not change original, allowing us to go back and find the line and the urn for any interesting accent patterns (indexOf and corpus.nodes)
+			*picture*
+		- can also print the line broken up into syllables with the accents via printPitch
+			- involves declaring a CTS URN
+			*picture*
+future:
+- plan to compare side by side the differences between Ven A and OCT, as well as Bankes using same methods
+- 
