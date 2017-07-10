@@ -26,6 +26,7 @@
 - Manual transcription directly from the image of the manuscript to the edition	
 - Tag place names, abbreviations, corrections, quotations, etc.
 - Separation of concerns: Analysis and editing
+![BankesXMLScreengrab.png](https://raw.github.com/hmteditors/hmt-22/master/keystone/BankesXMLScreengrab.png
 	
 ## Automated Machine Validation
 - Run every edition against the Morpheus Parser, to confirm that it is composed entirely of valid lexical entities and 	valid Greek 
