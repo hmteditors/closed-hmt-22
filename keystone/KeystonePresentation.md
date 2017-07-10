@@ -18,9 +18,9 @@
 	- Makes work verifiable
 	- The edition we make is tied directly to the image of the physical artifact — linked to the primary source
 	
-## Paleography: 
-- take roughly 40 letter observations from scholia, and 40 from main text		
-- Each assigned a unique URN
+## Paleography and Line Indexing: 
+- Take a select number of observations from text and scholia
+	- Assigned URNs
 	
 ## Editing:
 - XML Editor, limited set of TEI markup	
