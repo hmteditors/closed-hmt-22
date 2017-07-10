@@ -33,12 +33,10 @@
 - Run every edition against the Morpheus Parser, to confirm that it is composed entirely of valid lexical entities and 	valid Greek 
 - Collate a list of Byzantine Orthographic Equivalents
 - (Occasionally) add new lexical entities not found in the pages of the Liddell and Scott
-	
-
-	
 
 
-The Question
+# Analysis
 
-Analysis
+## General Procedures
 
+## Test Case: Accentuation
