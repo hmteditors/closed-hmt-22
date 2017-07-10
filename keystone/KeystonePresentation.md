@@ -26,6 +26,7 @@
 - Manual transcription directly from the image of the manuscript to the edition	
 - Tag place names, abbreviations, corrections, quotations, etc.
 - Separation of concerns: Analysis and editing
+
 ![BankesXMLScreengrab.png](https://raw.github.com/hmteditors/hmt-22/master/keystone/BankesXMLScreengrab.png
 	
 ## Automated Machine Validation
