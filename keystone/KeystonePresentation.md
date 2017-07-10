@@ -1,5 +1,5 @@
 —
-## Background:##
+## Background:
 - Homer Multitext Project
 	- Multi-institutional, dedicated to creating digital, diplomatic editions of the Homer manuscripts (Do we need to say why?)
 	- Multi-institutional, multinational (too far?)
@@ -9,14 +9,14 @@
 	- Deluxe Readers Guide
 	- Scholia
 
-Editing
+## Editing
 
 # Overview
-	- Digital, diplomatic edition of the Venetus A
-	- Hosted on a github repository
-	- Line/Scholia indexing: assign each a URN, or a uniform resource name, and reference it to the appropriate line in the 		manuscript	
-		- Makes work verifiable
-		- The edition we make is tied directly to the image of the physical artifact — linked to the primary source
+- Digital, diplomatic edition of the Venetus A
+- Hosted on a github repository
+- Line/Scholia indexing: assign each a URN, or a uniform resource name, and reference it to the appropriate line in the 		manuscript	
+	- Makes work verifiable
+	- The edition we make is tied directly to the image of the physical artifact — linked to the primary source
 	
 # Paleography: 
 	- take roughly 40 letter observations from scholia, and 40 from main text
