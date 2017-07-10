@@ -39,6 +39,18 @@
 
 ## General Procedures
 
-## Example: Accentuation
+## Example: The Evolution of Homeric Accent Notation
+### Overview
+- The grammar of pre-Archaic Greek was exploited to shape the sound of Homeric epic
+	- Vowel quantity = rhythm
+	- Linguistic tonality = pitch
+- Linguistic tonality died out from the language and was replaced by a system of grammatical accentuation
+- ἀοιδοί vs. ῥαψῳδoί
+- Early accent systems would have been more reflective of Homeric melody than the more grammatically-conceived systems into which they evolved.
+### Bankes Papyrus
+- c. 150 AD, Egypt
+- One of the most important Homeric papyri for its intactness and antiquity; contains approx. 600 lines
+- Includes an accent system which has been theorized to reflect the entirety of the melody of the line
+
 
 ## Future Directions
