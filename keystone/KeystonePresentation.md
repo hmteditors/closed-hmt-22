@@ -39,6 +39,6 @@
 
 ## General Procedures
 
-## Test Case: Accentuation
+## Example: Accentuation
 
 ## Future Directions
