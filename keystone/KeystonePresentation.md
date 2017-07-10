@@ -9,7 +9,7 @@
 	- Scholia
 ![12r.png](https://raw.githubusercontent.com/hmteditors/hmt-22/master/keystone/12r.png)
 
-# Editing Process
+# The Edition
 
 ## Overview
 - Digital, diplomatic edition of the Venetus A
