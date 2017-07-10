@@ -1,4 +1,3 @@
-—
 ## Background:
 - Homer Multitext Project
 	- Multi-institutional, dedicated to creating digital, diplomatic editions of the Homer manuscripts (Do we need to say why?)
