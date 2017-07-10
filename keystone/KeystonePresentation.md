@@ -7,6 +7,7 @@
 	- Byzantine
 	- Deluxe Readers Guide
 	- Scholia
+![
 
 # Editing Process
 
