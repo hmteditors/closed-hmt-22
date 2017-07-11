@@ -1,7 +1,6 @@
 # Background:
 - Homer Multitext Project
-	- Multi-institutional, dedicated to creating digital, diplomatic editions of the Homer manuscripts (Do we need to say why?)
-	- Multi-institutional, multinational (too far?)
+	- Multi-institutional, dedicated to creating digital, diplomatic editions of the Homeric manuscripts 
 - Venetus A
 	- 10th Century (Oldest)
 	- Byzantine
@@ -18,7 +17,7 @@
 	
 ## Paleography and Line Indexing: 
 - Take a select number of observations from text and scholia
-	- Assigned uniform resource names, which index the edition to the image of the edited text
+	- Assigned **uniform resource names**, which index the edition to the image of the edited text
 	- Verifiable
 	
 ## Editing:
@@ -32,7 +31,10 @@
 ## Automated Machine Validation
 - Run every edition against the Morpheus Parser, to confirm that it is composed entirely of valid lexical entities and 	valid Greek 
 - Collate a list of Byzantine Orthographic Equivalents
-- (Occasionally) add new lexical entities not found in the pages of the Liddell and Scott
+- New lexical entities not found in Liddell and Scott
+- Revisions to Validation Procedure
+	- Summer 2017
+	- Kanones Parser
 ---
 # Analysis
 ---
