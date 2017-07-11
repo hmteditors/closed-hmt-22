@@ -59,6 +59,9 @@
 ### Using Scala
 - a more logical, sophisticated language 
 - work with large amounts of data
+
+---
+
 ### Our Approach	
 - load the text
 - using computePitch to isolate the accents
