@@ -20,4 +20,10 @@ Using Scala:
 		- can also print the line broken up into syllables with the accents via printPitch
 			- involves declaring a CTS URN
 			*picture*
+	Future:
+		- we will compare the accent patterns across the three texts and compare and contrast them
+		in the hope of tracing a possible evolution from a more preformance-based system to a grammatical system
 		
+		- using scala, we will transform the patterns to booleans using the map function.
+		- then, using the contains and filter functions, find all of the patterns that are different between texts and manually 
+		look at them to determine the difference.
