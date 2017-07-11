@@ -73,6 +73,8 @@
 
 ![printPitch.png](https://raw.githubusercontent.com/hmteditors/hmt-22/master/keystone/printPitch.png)
 
-### Results
 
 ## Future Directions
+### Comparing Accent Patterns
+- Across 3 versions
+- 
