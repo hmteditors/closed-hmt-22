@@ -89,5 +89,9 @@
 
 # Future Directions
 ## Comparing Accent Patterns
-- Across 3 versions
-- 
+- across 3 versions
+- trace a possible evolution
+
+## Procedure
+- map to boolean
+- .contains() and .filter() functions
