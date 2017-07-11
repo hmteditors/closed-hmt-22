@@ -1,16 +1,23 @@
 Using Scala:
 	Why:
-		- a more logical, sophisticated language to work with large amounts of data
+		- a more logical, sophisticated language 
+		to work with large amounts of data 
+			- important because the OCT of the Iliad is over 15,000 lines long)
 	How:
-		- load our text
-		- using computePitch (function created for this purpose), we can separate out the accents from their words
+		- load our text, using a basic .fromFile function, adapted for our libraries
+		- using computePitch, we can separate out the accents from their words, 
+		allowing us to run functions on just the accent patterns
 			*picture*
-		- can filter out results based on specific accents (filtering out graves) or distinct patterns
-		- does not change original, allowing us to go back and find the line and the urn for any interesting accent patterns (indexOf and corpus.nodes)
+		- As you can see here, loaded corpus of text containing urns and the text of each line
+		- transformed those into accent patterns
+		
+		- can filter out results based on specific accents, for example, you can look at lines
+		that only have a acute accent or other distinct patterns
+		- does not change original, allowing us to go back and find the line and the urn for any  
+		accent patterns that we want to investigate further  (indexOf and corpus.nodes)
 			*picture*
+			
 		- can also print the line broken up into syllables with the accents via printPitch
 			- involves declaring a CTS URN
 			*picture*
-future:
-- plan to compare side by side the differences between Ven A and OCT, as well as Bankes to gain insight into our main question
-- 
+		
