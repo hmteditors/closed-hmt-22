@@ -98,3 +98,6 @@
 ## Procedure
 - map to boolean
 - .contains() and .filter() functions
+
+## Goals
+- finished editions of both the Venetus A manuscript and the Bankes papyrus by 2018
