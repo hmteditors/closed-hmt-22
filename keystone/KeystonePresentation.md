@@ -43,7 +43,6 @@
 	- Vowel quantity = rhythm
 	- Linguistic tonality = pitch
 - Linguistic tonality died out from the language and was replaced by a system of grammatical accentuation
-- ἀοιδοί vs. ῥαψῳδoί
 - Early accent systems would have been more reflective of Homeric melody than the more grammatically-conceived systems into which they evolved.
 ### Bankes Papyrus
 - c. 150 AD, Egypt
