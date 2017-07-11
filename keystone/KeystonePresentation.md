@@ -33,28 +33,29 @@
 - Run every edition against the Morpheus Parser, to confirm that it is composed entirely of valid lexical entities and 	valid Greek 
 - Collate a list of Byzantine Orthographic Equivalents
 - (Occasionally) add new lexical entities not found in the pages of the Liddell and Scott
-
-
+---
 # Analysis
-
+---
 ## Example: The Evolution of Homeric Accent Notation
+---
 ### Overview
 - The grammar of pre-Archaic Greek was exploited to shape the sound of Homeric epic
 	- Vowel quantity = rhythm
 	- Linguistic tonality = pitch
 - Linguistic tonality died out from the language and was replaced by a system of grammatical accentuation
 - Early accent systems would have been more reflective of Homeric melody than the more grammatically-conceived systems into which they evolved.
+---
 ### Bankes Papyrus
 - c. 150 AD, Egypt
 - One of the most important Homeric papyri for its intactness and antiquity; contains approx. 600 lines
 - Includes an accent system which has been theorized to reflect the entirety of the melody of the line
-
+---
 ![114_5.jpg](https://raw.github.com/hmteditors/hmt-22/master/keystone/114_5.jpg)
-
+---
 ### Melodic Material in the Venetus A?
 - Could the intermediate stage of evolution of accent notation in the Venetus A be preserving something of the melodic accent system, as preserved in the Bankes Papyrus?
 - Could the Venetus A employ text reuse with an older accent system preserved?
-
+---
 ## General Procedures
 
 ---
