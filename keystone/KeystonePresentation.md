@@ -19,6 +19,7 @@
 - Take a select number of observations from text and scholia
 	- Assigned **uniform resource names**, which index the edition to the image of the edited text
 	- Verifiable
+- URNs: Canonical identification of texts
 	
 ## Editing:
 - XML Editor, limited set of TEI markup	
