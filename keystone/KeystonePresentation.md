@@ -55,6 +55,9 @@
 ---
 ![114_5.jpg](https://raw.github.com/hmteditors/hmt-22/master/keystone/114_5.jpg)
 ---
+
+![VA315RN-0485.jpg](https://raw.github.com/hmteditors/hmt-22/master/keystone/VA315RN-0485.jpg)
+![114_2.jpg](https://raw.github.com/hmteditors/hmt-22/master/keystone/114_2.jpg)
 ### Melodic Material in the Venetus A?
 - Could the intermediate stage of evolution of accent notation in the Venetus A be preserving something of the melodic accent system, as preserved in the Bankes Papyrus?
 - Could the Venetus A employ text reuse with an older accent system preserved?
