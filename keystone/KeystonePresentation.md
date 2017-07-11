@@ -48,6 +48,9 @@
 - c. 150 AD, Egypt
 - One of the most important Homeric papyri for its intactness and antiquity; contains approx. 600 lines
 - Includes an accent system which has been theorized to reflect the entirety of the melody of the line
+
+![114_5.jpg](https://raw.github.com/hmteditors/hmt-22/master/keystone/114_5.jpg)
+
 ### Melodic Material in the Venetus A?
 - Could the intermediate stage of evolution of accent notation in the Venetus A be preserving something of the melodic accent system, as preserved in the Bankes Papyrus?
 - Could the Venetus A employ text reuse with an older accent system preserved?
