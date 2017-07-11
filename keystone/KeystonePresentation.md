@@ -70,8 +70,8 @@
 ---
 
 ### Our Approach	
-- load the text
-- using computePitch to isolate the accents
+- able to load the text
+- isolate the accents
 
 ![convertToPitches.png](https://raw.githubusercontent.com/hmteditors/hmt-22/master/keystone/convertToPitches.png)
 
