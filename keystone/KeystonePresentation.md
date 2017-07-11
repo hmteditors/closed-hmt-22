@@ -52,20 +52,27 @@
 - Could the intermediate stage of evolution of accent notation in the Venetus A be preserving something of the melodic accent system, as preserved in the Bankes Papyrus?
 - Could the Venetus A employ text reuse with an older accent system preserved?
 
-# General Procedures
-## Using Scala
+## General Procedures
+
+---
+
+### Using Scala
 - a more logical, sophisticated language 
 - work with large amounts of data
-## Our Approach	
+### Our Approach	
 - load the text
 - using computePitch to isolate the accents
 
 ![convertToPitches.png](https://raw.githubusercontent.com/hmteditors/hmt-22/master/keystone/convertToPitches.png)
 
+---
+
 - filter results based on specific accents
 - does not change original
 
 ![nodes.png](https://raw.githubusercontent.com/hmteditors/hmt-22/master/keystone/nodes.png)
+
+---
 
 - print the line as syllables with the accents
 - uses a CTS URN
