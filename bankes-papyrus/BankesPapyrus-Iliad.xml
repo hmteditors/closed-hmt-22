@@ -111,36 +111,36 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         >Ἄϊδος</persName> εισω</l>
                 <l n="247">ῆ και σκηπανίω δι ἑπ’ ανερας· οι δ ισαν <w>ἑ<unclear/>ω</w></l>
                 <l n="248">σπερχομένοιο γέροντος· ὁ δ᾽ ὑϊάσιν οἱσιν ομόκλα·</l>
-                <l n="249">νεικειων <persName n="urn:hmt:cite:pers.pers507">Ἑλενον</persName> τε
-                        <persName n="urn:hmt:cite:pers.pers129">Πάριν</persName> τ᾽ <persName
+                <l n="249">νεικειων <persName n="urn:hmt:cite2:pers:pers507">Ἑλενον</persName> τε
+                        <persName n="urn:hmt:cite2:pers:pers129">Πάριν</persName> τ᾽ <persName
                         ><w>Ἀ<unclear>γ</unclear>αθωνα</w></persName> τε
                     δῑον·</l>
-                <l n="250"><persName n="urn:hmt:cite:pers.pers">Πάμμονα</persName> τ <persName
-                        n="urn:hmt:cite:pers.pers"><choice>
+                <l n="250"><persName n="urn:hmt:cite2:pers:pers">Πάμμονα</persName> τ <persName
+                        n="urn:hmt:cite2:pers:pers"><choice>
                             <sic>Αμφιφονόν</sic>
                             <corr>Αντιφονόν</corr>
                         </choice></persName> τε βοὴν ἀγαθόν τε <persName
-                        n="urn:hmt:cite:pers.pers448"><choice>
+                        n="urn:hmt:cite2:pers:pers448"><choice>
                             <sic>Πολεῑτην</sic>
                             <corr>Πολῑτην</corr>
                         </choice></persName>·</l>
-                <l n="251"><persName n="urn:hmt:cite:pers.pers508">Δηΐφοβον</persName> και <persName
-                        n="urn:hmt:cite:pers.pers">Ἱ̈πποθοον</persName> και διον <persName
-                        n="urn:hmt:cite:pers.pers">Αγαὺον</persName>·</l>
+                <l n="251"><persName n="urn:hmt:cite2:pers:pers508">Δηΐφοβον</persName> και <persName
+                        n="urn:hmt:cite2:pers:pers">Ἱ̈πποθοον</persName> και διον <persName
+                        n="urn:hmt:cite2:pers:pers">Αγαὺον</persName>·</l>
                 <l n="252">εννεα τοῖς ὁ γεραὶος ὁμοκλησας εκελευσεν·</l>
                 <l n="253">σπεῦ́́σατε μοι κακα τέκνα κατηφόνες· αἶθ᾽ ἁμα παντες</l>
-                <l n="254"><persName n="urn:hmt:cite:pers.pers172">Εκτορος</persName>
+                <l n="254"><persName n="urn:hmt:cite2:pers:pers172">Εκτορος</persName>
                     <choice>
                         <sic>ως οφελ᾽</sic>
                         <corr>ὠφελετ᾽</corr>
                     </choice> αντι θοῇς επι νὴυσι πεφᾶσθαι·</l>
                 <l n="255">ῶμοι ἐγω πανάποτμος· επεὶ τεκον ὖϊας αριστους</l>
-                <l n="256"><placeName n="urn:hmt:cite:place.place6">/\/\Τροιη/\/\</placeName> εν
+                <l n="256"><placeName n="urn:hmt:cite2:place:place6">/\/\Τροιη/\/\</placeName> εν
                     ευρεῖῃ· <w>τω<unclear>ν</unclear></w> δ᾽ ού τινα φημι<corr>
                         <sic>λελειπται</sic><corr>λελειφθαι</corr></corr></l>
-                <l n="257"><persName n="urn:hmt:cite:pers.pers">Μήστορα</persName> τ᾽ αντιθεον· και
-                        <persName n="urn:hmt:cite:pers.pers">Τρωΐλον</persName> ἱππιοχάρμην·</l>
-                <l n="258"><persName n="urn:hmt:cite:pers.pers172">Εκτορα</persName>
+                <l n="257"><persName n="urn:hmt:cite2:pers:pers">Μήστορα</persName> τ᾽ αντιθεον· και
+                        <persName n="urn:hmt:cite2:pers:pers">Τρωΐλον</persName> ἱππιοχάρμην·</l>
+                <l n="258"><persName n="urn:hmt:cite2:pers:pers172">Εκτορα</persName>
                     <choice>
                         <sic>τε</sic>
                         <corr>τ᾽</corr>
