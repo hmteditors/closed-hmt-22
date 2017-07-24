@@ -1,5 +1,5 @@
-BankesOrig,BankesReg,VenetusA,Scholia Y/N,Aristarchus
-τι, ἑ, ἑ, Y, N
-ἁλιος, ἁλιον, ἁλιον, N, N
-ἀγκὰ̆ς, ἀγκες, ἀγκὰ̆ς, N, N
-ὀυνεσθ, ὀυνοσθ᾽, οὔνεσθ, Y, ὀνόσασθ
+Line,BankesOrig,BankesReg,VenetusA,Scholia Y/N,Aristarchus
+214,τι, ἑ, ἑ, Y, N
+224,ἁλιος, ἁλιον, ἁλιον, N, N
+227,ἀγκὰ̆ς, ἀγκες, ἀγκὰ̆ς, N, N
+241,ὀυνεσθ, ὀνοσεθ᾽, οὔνεσθ, Y, ὀνόσασθ
