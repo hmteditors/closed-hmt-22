@@ -144,11 +144,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <sic>τε</sic>
                         <corr>τ᾽</corr>
                     </choice> ὁς θεος έσκε μετ ανδράσιν· <choice>
-                        <sic>ουδε</sic>
+                        <sic>ουτε</sic>
                         <corr>ουδε</corr>
                     </choice> εωκει</l>
-                <l n="259">ανδρος γε θνητου παις <sic>έμμενε</sic><corr>έμμεναι</corr> αλλα
-                    θεοῖο·</l>
+                <l n="259">ανδρος γε θνητου παις <choice>
+                        <sic>έμμενε</sic>
+                        <corr>έμμεναι</corr>
+                    </choice> αλλα θεοῖο·</l>
                 <l n="260">τους μεν απωλεσ᾽ <persName n="83">Αρης</persName>· τα δ᾽ ελέγχεα παντα
                     λέλειπται·</l>
                 <l n="261">ψεῦσται τ᾽ <w>ορχ<gap unit="letters" extent="1"/>`σται</w> τε
@@ -156,7 +158,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <l n="262">αρνῶν ηδ᾽ <unclear>ε</unclear><gap unit="letters" extent="1"/>´φων
                     επιδήμιοι ἁρπακτῆρες·</l>
                 <l n="263">ουκ αν δη μοι ὰμαξαν <choice>
-                        <sic>εφωπλίσσαιτε</sic>
+                        <sic>εφωπλίσσειτε</sic>
                         <corr>εφωπλίσσαιτε</corr>
                     </choice> τάχιστα·</l>
                 <l n="264">ταυτα τε παντ <choice>
@@ -637,7 +639,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <corr>εξεναριξα</corr>
                     </choice>· <w>σιδή<gap unit="letters" extent="1"/>ειον</w> νύ τοι ῆτορ·</l>
                 <l n="522">αλλ αγε δη κατ άρ ἑζευ <gap unit="letters" extent="1"/>πι θρόνου· <choice>
-                        <sic>αλλα γε</sic>
+                        <sic>αλλ αγε</sic>
                         <corr><w>αλγε<add place="supralinear">α</add></w></corr>
                     </choice> δ᾽ έμπης</l>
                 <l n="523">εν θῡμῳ κατακεῖσθα<gap unit="letters" extent="1"/> εᾱσομεν αχνύμενοί
