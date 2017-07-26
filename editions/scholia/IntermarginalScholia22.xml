@@ -206,7 +206,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </choice></persName> ἄλλοι δὲ ἰων⁑</p>
                         </div>
                     </div>
-                    <div n="11" type="scholion">
+                    <div n="13" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -214,13 +214,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.87</p>
                         </div>
                         <div type="comment">
-                            <p><choice>
-                                    <abbr>γρ</abbr>
-                                    <expan>γράφεται</expan>
-                                </choice> φίλον θάλος·⁑</p>
+                            <p>γράφεται φίλον θάλος·⁑</p>
                         </div>
                     </div>
-                    <div n="12" type="scholion">
+                    <div n="14" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -231,7 +228,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>αἱ κατα ἄνδρα πολὺ κάλλιον⁑</p>
                         </div>
                     </div>
-                    <div n="13" type="scholion">
+                    <div n="15" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -250,7 +247,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <rs type="waw">ε</rs> ⁑</p>
                         </div>
                     </div>
-                    <div n="14" type="scholion">
+                    <div n="16" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -266,7 +263,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <q>αλλα τι η μοι</q></p>
                         </div>
                     </div>
-                    <div n="15" type="scholion">
+                    <div n="17" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -280,7 +277,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice>δὲ ἑκατέρωθι δύναται προσδίδοσθαι⁑</p>
                         </div>
                     </div>
-                    <div n="16" type="scholion">
+                    <div n="18" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -291,7 +288,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ὅτι αντι τοῦ <q>φυγών</q></p>
                         </div>
                     </div>
-                    <div n="17" type="scholion">
+                    <div n="19" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -308,7 +305,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </choice> φεύγει</q>⁑</p>
                         </div>
                     </div>
-                    <div n="18" type="scholion">
+                    <div n="20" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -319,7 +316,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἀντικατήλλασσον τῷ δρόμῳ⁑</p>
                         </div>
                     </div>
-                    <div n="19" type="scholion">
+                    <div n="21" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -334,7 +331,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     >Έκτορος</persName>⁑</p>
                         </div>
                     </div>
-                    <div n="20" type="scholion">
+                    <div n="22" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -351,7 +348,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice>⁑</p>
                         </div>
                     </div>
-                    <div n="21" type="scholion">
+                    <div n="23" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -362,7 +359,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ὑποχώρει ἐνδίδου⁑</p>
                         </div>
                     </div>
-                    <div n="22" type="scholion">
+                    <div n="24" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -373,7 +370,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>προς τὸ αυτο⁑</p>
                         </div>
                     </div>
-                    <div n="23" type="scholion">
+                    <div n="25" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -388,7 +385,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <q>ῥέξε</q></p>
                         </div>
                     </div>
-                    <div n="24" type="scholion">
+                    <div n="26" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -399,7 +396,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ὅτι τὰ όρκια έσονται οὐκ έσσεται⁑</p>
                         </div>
                     </div>
-                    <div n="25" type="scholion">
+                    <div n="27" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -410,7 +407,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἐν αλλῶ <q>μείλινον ἔγχος</q>⁑</p>
                         </div>
                     </div>
-                    <div n="26" type="scholion">
+                    <div n="28" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -421,7 +418,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ὅτι ἀντι τοῦ όλον⁑</p>
                         </div>
                     </div>
-                    <div n="27" type="scholion">
+                    <div n="29" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -435,7 +432,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice>⁑</p>
                         </div>
                     </div>
-                    <div n="28" type="scholion">
+                    <div n="30" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -446,7 +443,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ὅτι άπαξ εἴρηκε <q>λευκάσπιδα</q>⁑</p>
                         </div>
                     </div>
-                    <div n="29" type="scholion">
+                    <div n="31" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -457,7 +454,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>τοῦ λαιμοῦ</p>
                         </div>
                     </div>
-                    <div n="30" type="scholion">
+                    <div n="32" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -469,7 +466,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἐπι τὸ γνωριμώτερον <q>ἐλκήσουσι κακῶς</q>⁑</p>
                         </div>
                     </div>
-                    <div n="31" type="scholion">
+                    <div n="33" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -480,7 +477,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>προθυμία με αναπείση⁑</p>
                         </div>
                     </div>
-                    <div n="32" type="scholion">
+                    <div n="34" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -498,7 +495,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> όλον</p>
                         </div>
                     </div>
-                    <div n="33" type="scholion">
+                    <div n="35" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -509,7 +506,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>γράφεται ἔρδεσκεν⁑</p>
                         </div>
                     </div>
-                    <div n="34" type="scholion">
+                    <div n="36" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -524,7 +521,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     >Αργείοισι</rs> φιλοπτολέμοισι μετείω⁑</p>
                         </div>
                     </div>
-                    <div n="35" type="scholion">
+                    <div n="37" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -535,7 +532,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἔν τισι <q>πιμπλανται</q>⁑</p>
                         </div>
                     </div>
-                    <div n="36" type="scholion">
+                    <div n="38" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -550,7 +547,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         >Ί̈λιος</placeName></q></p>
                         </div>
                     </div>
-                    <div n="37" type="scholion">
+                    <div n="39" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -564,7 +561,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </choice></persName> πληθυντικῶς <q>κηδομενοί περ</q></p>
                         </div>
                     </div>
-                    <div n="38" type="scholion">
+                    <div n="40" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -579,7 +576,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 >η</rs> <q>βήομαι</q>· <q>βηώσομαι</q></p>
                         </div>
                     </div>
-                    <div n="39" type="scholion">
+                    <div n="41" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -596,7 +593,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </choice></q> αἱ δε κοιναὶ χέε⁑</p>
                         </div>
                     </div>
-                    <div n="40" type="scholion">
+                    <div n="42" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -608,7 +605,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     >Πριαμου</persName> ενι οίκω</p>
                         </div>
                     </div>
-                    <div n="41" type="scholion">
+                    <div n="43" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -623,7 +620,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <q>αινόμορον⁑</q></p>
                         </div>
                     </div>
-                    <div n="42" type="scholion">
+                    <div n="44" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -634,7 +631,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἐν αλλω <q>αλλ ήτοι τούτῳ</q></p>
                         </div>
                     </div>
-                    <div n="43" type="scholion">
+                    <div n="45" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -651,7 +648,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </choice></q></p>
                         </div>
                     </div>
-                    <div n="44" type="scholion">
+                    <div n="46" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -665,7 +662,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> ουδετερως <q>παρεία</q>⁑</p>
                         </div>
                     </div>
-                    <div n="45" type="scholion">
+                    <div n="47" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -683,7 +680,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> τοῦ <q>πλήσσω</q>⁑</p>
                         </div>
                     </div>
-                    <div n="46" type="scholion">
+                    <div n="48" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -704,7 +701,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit></p>
                         </div>
                     </div>
-                    <div n="47" type="scholion">
+                    <div n="49" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
