@@ -356,11 +356,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.67</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι χρόνος ήλλακται ἀντι τοῦ <q>ἐρύσουσιν</q> καὶ ἐν <rs
-                                    type="citedworks" n="urn:cite2:hmt:citedworks:work1"><choice>
-                                        <abbr>Οδ</abbr>
-                                        <expan>Οδυσσείᾳ</expan>
-                                    </choice></rs>
+                            <p>ὅτι χρόνος ήλλακται ἀντι τοῦ <q>ἐρύσουσιν</q> καὶ ἐν <title>
+                                    <ref type="urn" n="urn:cite2:hmt:citedworks:work1"><choice>
+                                            <abbr>Οδ</abbr>
+                                            <expan>Οδυσσείᾳ</expan>
+                                        </choice></ref></title>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.97</ref>
                                     <q>νευρὴν ἐντανύει</q>
@@ -443,11 +443,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.80</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἀντι τοῦ χαλῶσα ἀναστέλλουσα· καὶ ἐν <rs type="citedworks"
-                                    n="urn:cite2:hmt:citedworks:work1"><choice>
-                                        <abbr>Οδ</abbr>
-                                        <expan>Ὀδυσσείᾳ</expan>
-                                    </choice></rs>
+                            <p>ὅτι ἀντι τοῦ χαλῶσα ἀναστέλλουσα· καὶ ἐν <title><ref type="urn"
+                                        n="urn:cite2:hmt:citedworks:work1"><choice>
+                                            <abbr>Οδ</abbr>
+                                            <expan>Ὀδυσσείᾳ</expan>
+                                        </choice></ref></title>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:2.300</ref>
                                     <q>αἴγας ἀνιεμένους</q>
@@ -587,7 +587,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="32" type="scholion">
                         <div type="lemma">
-                            <p>δωσέμεν Ἀτρείδῃσιν:</p>
+                            <p>δωσέμεν <persName n="urn:cite2:hmt:pers:pers22"><persName
+                                        n="urn:cite2:hmt:pers:pers119"
+                                    >Ἀτρείδῃσιν</persName></persName>:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.117</p>
@@ -978,8 +980,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.210</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἐντεῦθεν ἡ <rs type="citedworks"
-                                    n="urn:cite2:hmt:citedworks.2017a:work3">Ψυχοστασία</rs>
+                            <p>ὅτι ἐντεῦθεν ἡ <title n="urn:cite2:hmt:citedworks:work3"
+                                    >Ψυχοστασία</title>
                                 <persName n="urn:cite2:hmt:pers:pers225">Αἰσχύλου</persName>
                                 πέπλασται ὡς τοῦ <persName n="urn:cite2:hmt:pers:pers8"
                                     >Διὸς</persName> τὰς ψυχὰς ἱστάντος οὐ θανατηφόρους μοίρας⁑</p>
@@ -1629,13 +1631,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div type="comment">
                             <p>τινὲς περιέργως δια μόνου τοῦ <rs type="waw">ϊ</rs> γράφοντες
                                 ἀποδιδόασιν ὡς αυτῆ ἅπασα. οὐκ οῖδεν δὲ ὁ ποιητὴς οὔτε τὴν <rs
-                                    type="waw">ϊ</rs> οὔτε τὴν σφείς ἔστιν οὖν ὅμοιον τῷ ἐν <cit>
-                                    <ref type="citedworks">urn:cite2:hmt:citedworks:work1</ref>
-                                    <choice>
-                                        <abbr>οδ</abbr>
-                                        <expan>Ὀδυσσείᾳ</expan>
-                                    </choice>
-                                </cit>· <cit>
+                                    type="waw">ϊ</rs> οὔτε τὴν σφείς ἔστιν οὖν ὅμοιον τῷ ἐν <title>
+                                    <ref type="urn" n="urn:cite2:hmt:citedworks:work1">
+                                        <choice>
+                                            <abbr>οδ</abbr>
+                                            <expan>Ὀδυσσείᾳ</expan>
+                                        </choice></ref>
+                                </title>· <cit>
                                     <ref type="urn"
                                         >urn:cts:greekLit:tlg0012.tlg002:10.419-10.420</ref>
                                     <q>σοὶ μὲν νοστήσαντι διοτρεφὲς ὧδε χωρῆσαι, ὡς ει τ' εἰς
@@ -2116,11 +2118,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:22.494</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι εἶδος ποτηρίου ἡ κοτύλη καὶ λέγεται ἀρσενικῶς κότυλος καὶ ἐν <rs
-                                    type="cited" n="urn:cite2:hmt:citedworks:work1"><choice>
-                                        <abbr>οδ</abbr>
-                                        <expan>Ὀδυσσεία</expan>
-                                    </choice></rs>
+                            <p>ὅτι εἶδος ποτηρίου ἡ κοτύλη καὶ λέγεται ἀρσενικῶς κότυλος καὶ ἐν
+                                        <title><ref type="urn" n="urn:cite2:hmt:citedworks:work1"><choice>
+                                            <abbr>οδ</abbr>
+                                            <expan>Ὀδυσσεία</expan>
+                                        </choice></ref></title>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:17.12</ref>
                                     <q>πύρνον καὶ κοτύλην</q>
